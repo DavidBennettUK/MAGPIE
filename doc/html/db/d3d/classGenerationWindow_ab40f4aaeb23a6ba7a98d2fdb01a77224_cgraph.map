@@ -1,0 +1,9 @@
+<map id="GenerationWindow::setGeneration" name="GenerationWindow::setGeneration">
+<area shape="rect" id="node3" href="$db/d3d/classGenerationWindow.html#a3a0830aff40494c593f1011dae515b49" title="Clear the table of individuals." alt="" coords="299,5,467,35"/>
+<area shape="rect" id="node5" href="$db/d3d/classGenerationWindow.html#a231ccf1753b501b0f97c751ba7b2c34d" title="Set the number of the current generation in the scenario." alt="" coords="539,7,760,54"/>
+<area shape="rect" id="node8" href="$db/d3d/classGenerationWindow.html#a3f3db2e48e0ab54d31acd15fd8546832" title="Add an individual to the list of individuals." alt="" coords="275,109,491,139"/>
+<area shape="rect" id="node14" href="$d4/df7/classGeneration.html#ad8af1bc64c09acba4406349960a91761" title="Get the current number of Individuals in the population." alt="" coords="315,163,451,192"/>
+<area shape="rect" id="node16" href="$d4/df7/classGeneration.html#adb31e45b1eda0730cd7f0066a7cf1089" title="Get a list of Individuals in the population." alt="" coords="297,216,468,245"/>
+<area shape="rect" id="node10" href="$d6/d0c/classIndividual.html#af9523805cdf3e5dacdce24bfd4bf052a" title="Get the fitness of the individual." alt="" coords="576,99,723,128"/>
+<area shape="rect" id="node12" href="$d4/dda/classFitness.html#a767764b2f60aef9249a86d57f19790c5" title="Get the fitness value." alt="" coords="588,152,711,181"/>
+</map>

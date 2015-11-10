@@ -1,0 +1,6 @@
+<map id="PlayerWindow::stepButton" name="PlayerWindow::stepButton">
+<area shape="rect" id="node3" href="$d1/d2e/classPlayerWindow.html#a4c6b0b099094888ad9ce906af9846cad" title="Stop the animation." alt="" coords="232,5,371,35"/>
+<area shape="rect" id="node5" href="$d1/d2e/classPlayerWindow.html#a090467b788ce9bf6ac2fdb370f422f1b" title="Step through the animation." alt="" coords="232,59,371,88"/>
+<area shape="rect" id="node7" href="$d6/d0c/classIndividual.html#ab94ce5b1e1abf28a62d970201b17ed6e" title="Perform one step of the program tree." alt="" coords="420,59,529,88"/>
+<area shape="rect" id="node9" href="$df/dd0/classNode.html#a19e29df280f2997bfcc000b884f85060" title="Evaluate the node, performing its actions." alt="" coords="580,59,689,88"/>
+</map>

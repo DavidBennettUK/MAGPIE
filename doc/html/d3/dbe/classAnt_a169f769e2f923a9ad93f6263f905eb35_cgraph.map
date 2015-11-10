@@ -1,0 +1,4 @@
+<map id="Ant::turn" name="Ant::turn">
+<area shape="rect" id="node3" href="$d3/dbe/classAnt.html#a7d03490f663ab02f69a6733e336fc981" title="Gets the direction the ant is facing." alt="" coords="125,5,232,35"/>
+<area shape="rect" id="node5" href="$d3/dbe/classAnt.html#a61e2375057c02f6cfd89e2b9305aefba" title="Sets the direction the ant is facing." alt="" coords="125,59,232,88"/>
+</map>

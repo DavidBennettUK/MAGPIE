@@ -1,0 +1,8 @@
+<map id="Lesson" name="Lesson">
+<area shape="rect" id="node3" href="$classExperimentLesson.html" title="ExperimentLesson" alt="" coords="119,5,249,35"/>
+<area shape="rect" id="node5" href="$classGPRunLesson.html" title="GPRunLesson" alt="" coords="131,59,237,88"/>
+<area shape="rect" id="node7" href="$classIntroductionLesson.html" title="IntroductionLesson" alt="" coords="119,112,249,141"/>
+<area shape="rect" id="node9" href="$classOperatorsLesson.html" title="OperatorsLesson" alt="" coords="124,165,244,195"/>
+<area shape="rect" id="node11" href="$classSelectionLesson.html" title="SelectionLesson" alt="" coords="125,219,243,248"/>
+<area shape="rect" id="node13" href="$classTreeLesson.html" title="TreeLesson" alt="" coords="139,272,229,301"/>
+</map>

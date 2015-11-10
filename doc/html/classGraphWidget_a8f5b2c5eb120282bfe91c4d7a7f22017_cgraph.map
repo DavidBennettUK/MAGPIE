@@ -1,0 +1,4 @@
+<map id="GraphWidget::GraphWidget" name="GraphWidget::GraphWidget">
+<area shape="rect" id="node3" href="$classGraphWidget.html#a8a46e61a7289f0d7afa951b1d47951bf" title="Hides the appropriate plot line when the legend item is clicked." alt="" coords="239,5,455,35"/>
+<area shape="rect" id="node5" href="$classGraphWidget.html#a3635aa893da8ff2973defdacb606e31c" title="Scales the graph to fit when the x&#45;axis is double clicked." alt="" coords="239,59,455,88"/>
+</map>

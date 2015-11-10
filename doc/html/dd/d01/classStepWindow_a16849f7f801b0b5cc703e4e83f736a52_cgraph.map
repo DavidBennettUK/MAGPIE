@@ -1,0 +1,14 @@
+<map id="StepWindow::StepWindow" name="StepWindow::StepWindow">
+<area shape="rect" id="node3" href="$db/d03/classLesson.html#ae33169b33f356e3a10fa047faa53a364" title="Lesson::getCurrentStep" alt="" coords="241,5,401,35"/>
+<area shape="rect" id="node5" href="$d8/d63/classLessonStep.html#af51444d2e983368fc13199fef004e90a" title="LessonStep::getTitle" alt="" coords="497,267,639,296"/>
+<area shape="rect" id="node7" href="$d8/d63/classLessonStep.html#a10b4288c9ce7f6ea559d3003d2d5ea52" title="LessonStep::getDescription" alt="" coords="477,320,659,349"/>
+<area shape="rect" id="node9" href="$dd/d01/classStepWindow.html#ac3923a2381129f8d288d9cae58907772" title="Called when the back button is pressed." alt="" coords="256,317,387,347"/>
+<area shape="rect" id="node15" href="$db/d03/classLesson.html#af99aef32ec5e69450099795783953b90" title="Lesson::hasNextStep" alt="" coords="727,136,873,165"/>
+<area shape="rect" id="node19" href="$dd/d01/classStepWindow.html#ab974ce0c16cf384cea898857bdb57528" title="Called when the lesson select button is pressed." alt="" coords="232,449,411,479"/>
+<area shape="rect" id="node26" href="$dd/d01/classStepWindow.html#a7674a4af227a0d7085b2bb6c75acfdba" title="Previous step button." alt="" coords="257,213,385,243"/>
+<area shape="rect" id="node11" href="$db/d03/classLesson.html#aebdde8fa723bfcd26d0c768adc5a18c7" title="Load the previous step." alt="" coords="495,373,641,403"/>
+<area shape="rect" id="node17" href="$db/d03/classLesson.html#ae9238e7bf0c8e6a2eaec586ee54089c3" title="Lesson::hasPreviousStep" alt="" coords="483,213,653,243"/>
+<area shape="rect" id="node21" href="$d5/d83/classWorkspaceWindow.html#a567c84a59154736f237995c840db77ef" title="Open the lesson selection window." alt="" coords="459,477,677,507"/>
+<area shape="rect" id="node23" href="$db/d03/classLesson.html#a8664ea24715bb92a0b999faae658cc23" title="Called when the lesson has ended." alt="" coords="745,477,855,507"/>
+<area shape="rect" id="node28" href="$db/d03/classLesson.html#a895cf49b7f58782d2c7b10b7cad5cfc0" title="Load the next step." alt="" coords="507,109,629,139"/>
+</map>

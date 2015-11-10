@@ -1,0 +1,8 @@
+<map id="EnvironmentMulti::isObstacle" name="EnvironmentMulti::isObstacle">
+<area shape="rect" id="node3" href="$df/df0/classEnvironmentMulti.html#aa89ba73718dbc0206a607053c396e891" title="Constructs the environment." alt="" coords="249,5,452,51"/>
+<area shape="rect" id="node9" href="$d7/d94/classIfObstacleAheadNode.html#a1aaa8c2271bb967857a6265100692e64" title="If an obstacle is ahead execute the first child, otherwise the second." alt="" coords="276,74,425,121"/>
+<area shape="rect" id="node11" href="$d4/d32/classMowMultiNode.html#aaf8d420796237adcc79c395a23acc541" title="Moves the Lawnmower forward one tile." alt="" coords="268,144,433,173"/>
+<area shape="rect" id="node13" href="$d2/d30/classLawnViewMultiWidget.html#afd2c38841a6ecac9c4701116d6174dbd" title="Draws the lawn." alt="" coords="276,197,425,243"/>
+<area shape="rect" id="node5" href="$df/df0/classEnvironmentMulti.html#a2ee90d18727e54f0910182fa6febb870" title="Creates a deep&#45;copy of the environment." alt="" coords="501,13,664,43"/>
+<area shape="rect" id="node7" href="$df/da1/classLawnmowerMulti.html#a968528cbb5cb4ef9f183ba47bb0b06eb" title="Creates a deep&#45;copy of the lawnmower." alt="" coords="713,13,871,43"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Ant::getGridWidth" name="Ant::getGridWidth">
+<area shape="rect" id="node3" href="$dc/d71/classAntViewWidget.html#afcce99c182e38c0400a8ad1f5e27f368" title="Draws the pellets." alt="" coords="183,5,369,35"/>
+<area shape="rect" id="node7" href="$dc/d71/classAntViewWidget.html#a3278878743a497d3423c0cb17064b496" title="Draws the ant." alt="" coords="192,59,360,88"/>
+<area shape="rect" id="node10" href="$dc/d71/classAntViewWidget.html#a6b3da793f9c45bb3c13d7c4e4cf55645" title="Draws the grid." alt="" coords="191,112,361,141"/>
+<area shape="rect" id="node13" href="$dc/d71/classAntViewWidget.html#a9993535fda6e67063ee22cb5f1527999" title="Called when the widget is resized." alt="" coords="191,165,361,195"/>
+<area shape="rect" id="node5" href="$dc/d71/classAntViewWidget.html#aa5bd0539f5ce45b521acfba53dd8acf0" title="Draws the lawn, lawnmower, grid and text stats." alt="" coords="419,59,584,88"/>
+</map>

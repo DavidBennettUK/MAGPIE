@@ -1,0 +1,11 @@
+<map id="Individual::getFitness" name="Individual::getFitness">
+<area shape="rect" id="node3" href="$classGeneration.html#aad11acfe325d34f80e37d273ccc4ff51" title="Get the total fitness value of all Individual in the population." alt="" coords="209,89,391,119"/>
+<area shape="rect" id="node9" href="$classRouletteWidget.html#a730f557aaee56ec561fb810e690e947d" title="Constructs the widget." alt="" coords="465,127,633,174"/>
+<area shape="rect" id="node11" href="$classRouletteWidget.html#a6b6e949df6266edf6eff246926484b71" title="Draws the roulette wheel." alt="" coords="467,197,632,227"/>
+<area shape="rect" id="node13" href="$classGeneration.html#aabf87356a4f6be284e6f4f7900a9aea9" title="Get the highest fitness value in the population." alt="" coords="201,244,399,273"/>
+<area shape="rect" id="node15" href="$classGeneration.html#a9f5c39652752fb3550d118b466c251cb" title="Get the lowest fitness value in the population." alt="" coords="203,297,397,327"/>
+<area shape="rect" id="node17" href="$classGeneration.html#a5c9c9d56165249914ae2dda9b62f10ae" title="Get the Individual with the highest fitness value in the population." alt="" coords="204,351,396,380"/>
+<area shape="rect" id="node19" href="$classTournamentSelection.html#af08c98a0f34d03081b13b5112ed29dcd" title="Same as const, except the selected contestants will be returned." alt="" coords="228,403,372,450"/>
+<area shape="rect" id="node5" href="$classGeneration.html#abc16a3878ef8d2517808cf8c00e2bf84" title="Get the average fitness value of the population." alt="" coords="448,5,651,35"/>
+<area shape="rect" id="node7" href="$classRouletteSelection.html#a1566693e1b1dfe8f0d5a4f32fd5b4f92" title="Uses roulette selection to pick a random Individual, with chance of selection based on fitness value..." alt="" coords="485,58,613,105"/>
+</map>

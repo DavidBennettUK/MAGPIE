@@ -1,0 +1,8 @@
+<map id="Lesson::unload" name="Lesson::unload">
+<area shape="rect" id="node3" href="$db/d03/classLesson.html#a6530d1841651365b493c50fb69b5aef8" title="Destructs the lesson and all of its steps." alt="" coords="213,5,336,35"/>
+<area shape="rect" id="node5" href="$d5/d83/classWorkspaceWindow.html#a7a6cda43593b2d8807eb13a952a7cb25" title="Destroys the window and all lessons." alt="" coords="167,58,383,105"/>
+<area shape="rect" id="node7" href="$d5/d83/classWorkspaceWindow.html#a567c84a59154736f237995c840db77ef" title="Open the lesson selection window." alt="" coords="165,128,384,157"/>
+<area shape="rect" id="node9" href="$dd/d01/classStepWindow.html#ab974ce0c16cf384cea898857bdb57528" title="Called when the lesson select button is pressed." alt="" coords="448,97,627,127"/>
+<area shape="rect" id="node13" href="$d5/d83/classWorkspaceWindow.html#a968fe74e317fdafc14c8c0d6ac88fd4a" title="Constructs the window." alt="" coords="433,150,641,197"/>
+<area shape="rect" id="node11" href="$dd/d01/classStepWindow.html#a16849f7f801b0b5cc703e4e83f736a52" title="Constructs the window." alt="" coords="691,97,869,127"/>
+</map>

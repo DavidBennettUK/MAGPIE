@@ -1,0 +1,6 @@
+<map id="AntViewWidget::drawPellets" name="AntViewWidget::drawPellets">
+<area shape="rect" id="node3" href="$d3/dbe/classAnt.html#a3a06baedd481f2763350df6dc9c83e42" title="Ant::getGridWidth" alt="" coords="245,5,371,35"/>
+<area shape="rect" id="node5" href="$d3/dbe/classAnt.html#aeb6da96228d83e925a71289b55749ec8" title="Ant::getGridHeight" alt="" coords="243,59,373,88"/>
+<area shape="rect" id="node7" href="$d3/dbe/classAnt.html#a066ef0fb519e321f688a96e393ab75b8" title="Check if there is food at the given coordinates." alt="" coords="257,112,359,141"/>
+<area shape="rect" id="node9" href="$d3/dbe/classAnt.html#a00e80f4b53e11e2d2d3484ffc58f0d92" title="Check if the ant has visited the given coordinates." alt="" coords="253,165,363,195"/>
+</map>

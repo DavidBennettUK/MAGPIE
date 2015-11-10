@@ -1,0 +1,9 @@
+<map id="GenerationWindow::closeViewWindows" name="GenerationWindow::closeViewWindows">
+<area shape="rect" id="node3" href="$db/dd0/classAntLesson.html#ac09b1b0dabe6b6304b163962af7abe49" title="Called when a new run is started." alt="" coords="285,5,424,35"/>
+<area shape="rect" id="node7" href="$de/dbd/classExperimentLesson.html#a38280f281ac9c090a30f065f2de9ab00" title="Called when a new run is started." alt="" coords="261,59,448,88"/>
+<area shape="rect" id="node11" href="$d7/d66/classMultiObjectiveLesson.html#a9156d18521d8508d0ba58ebf7de894bd" title="Called when a new run is started." alt="" coords="281,111,428,158"/>
+<area shape="rect" id="node15" href="$db/d3d/classGenerationWindow.html#a68fc5db0edb2e5ba6ceca18e28c6ab12" title="Constructs the window." alt="" coords="253,181,456,227"/>
+<area shape="rect" id="node5" href="$db/dd0/classAntLesson.html#a42efedc76fc90827a50f7c00da3a30db" title="Loads the lesson." alt="" coords="528,5,643,35"/>
+<area shape="rect" id="node9" href="$de/dbd/classExperimentLesson.html#a28515dc50f9a2c81573efc4bc80286bc" title="Loads the lesson." alt="" coords="504,59,667,88"/>
+<area shape="rect" id="node13" href="$d7/d66/classMultiObjectiveLesson.html#af22856ca4173addb02cbd3a424445780" title="Loads the lesson." alt="" coords="512,111,659,158"/>
+</map>

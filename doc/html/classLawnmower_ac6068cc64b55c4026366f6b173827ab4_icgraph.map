@@ -1,0 +1,5 @@
+<map id="Lawnmower::reset" name="Lawnmower::reset">
+<area shape="rect" id="node3" href="$classLawnmower.html#afca77972add24971f088ac293d392aca" title="Constructs the lawnmower." alt="" coords="184,5,355,35"/>
+<area shape="rect" id="node7" href="$classLawnmower.html#adafe2ac8e38a4b395d60690b42dc4221" title="Get the fitness of the lawnmower." alt="" coords="189,59,349,88"/>
+<area shape="rect" id="node5" href="$classLawnmower.html#a3cc5e569c06c6376395ef467f03e2130" title="Creates a deep&#45;copy of the lawnmower." alt="" coords="403,5,533,35"/>
+</map>

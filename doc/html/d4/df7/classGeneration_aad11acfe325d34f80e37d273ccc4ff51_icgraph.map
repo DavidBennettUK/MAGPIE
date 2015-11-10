@@ -1,0 +1,7 @@
+<map id="Generation::getTotalFitness" name="Generation::getTotalFitness">
+<area shape="rect" id="node3" href="$d4/df7/classGeneration.html#abc16a3878ef8d2517808cf8c00e2bf84" title="Get the average fitness value of the population." alt="" coords="237,5,440,35"/>
+<area shape="rect" id="node5" href="$d0/dfb/classRouletteSelection.html#a1566693e1b1dfe8f0d5a4f32fd5b4f92" title="Uses roulette selection to pick a random Individual, with chance of selection based on fitness value..." alt="" coords="275,58,403,105"/>
+<area shape="rect" id="node9" href="$da/d5f/classRouletteWidget.html#a730f557aaee56ec561fb810e690e947d" title="Constructs the widget." alt="" coords="255,127,423,174"/>
+<area shape="rect" id="node11" href="$da/d5f/classRouletteWidget.html#a6b6e949df6266edf6eff246926484b71" title="Draws the roulette wheel." alt="" coords="256,197,421,227"/>
+<area shape="rect" id="node7" href="$d9/d55/classSelectionLesson_1_1Step3.html#a14434bde6b5a440ce6167b7d7f58ac7a" title="Called when the step needs to be loaded." alt="" coords="488,58,648,105"/>
+</map>

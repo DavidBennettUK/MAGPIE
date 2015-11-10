@@ -1,0 +1,5 @@
+<map id="PlayerWindow::setIndividual" name="PlayerWindow::setIndividual">
+<area shape="rect" id="node3" href="$d1/d2e/classPlayerWindow.html#a4c6b0b099094888ad9ce906af9846cad" title="Stop the animation." alt="" coords="261,5,400,35"/>
+<area shape="rect" id="node5" href="$d6/d0c/classIndividual.html#a87f9724fc796a08fd3a19479d02e6dc7" title="Reset the individual to initial state, where no steps have been performed." alt="" coords="273,59,388,88"/>
+<area shape="rect" id="node7" href="$de/d00/classPlayerWidget.html#a10ee4dfcd7351d790f5edd3ec0c922a2" title="Set the Individual to be drawn." alt="" coords="240,112,421,141"/>
+</map>

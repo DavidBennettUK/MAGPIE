@@ -1,0 +1,6 @@
+<map id="IfFoodAheadNode::clone" name="IfFoodAheadNode::clone">
+<area shape="rect" id="node3" href="$d1/d15/classIfFoodAheadNode.html#a2dab24f6780bd87181f10e0f622a266d" title="Create a new IfFoodAheadNode." alt="" coords="221,5,392,35"/>
+<area shape="rect" id="node7" href="$df/dd0/classNode.html#a132699398b350e83b548a5645e69beb0" title="Add a child to this node." alt="" coords="251,59,363,88"/>
+<area shape="rect" id="node9" href="$df/dd0/classNode.html#a4a4b6ade8975154630f781989665a863" title="Creates a deep&#45;copy of this node." alt="" coords="261,112,352,141"/>
+<area shape="rect" id="node5" href="$d1/d15/classIfFoodAheadNode.html#ace9786f85dd1e3f9c98d4d6bc364425b" title="Constructs the node with an arity of 2 and the name &#39;IfFoodAhead&#39;." alt="" coords="440,5,680,35"/>
+</map>

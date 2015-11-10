@@ -1,0 +1,22 @@
+<map id="DrawNode::getBoundsH" name="DrawNode::getBoundsH">
+<area shape="rect" id="node3" href="$d6/d4b/classDrawNode.html#a27ad2c16ed3d4095068c1934c6c06fee" title="DrawNode::getWidth" alt="" coords="219,218,363,247"/>
+<area shape="rect" id="node5" href="$da/d05/classCrossoverWidget.html#a0166d9f82cd828d292b558eff764b2a5" title="Set the trees for the widget to display." alt="" coords="688,87,869,116"/>
+<area shape="rect" id="node15" href="$da/d05/classCrossoverWidget.html#a2a61d42610399e2627657ce5e9c10dda" title="Draws the animation." alt="" coords="431,34,607,63"/>
+<area shape="rect" id="node20" href="$d9/d7c/classMutationWidget.html#a8be4576af55244204301e73572a41132" title="Draws the animation." alt="" coords="436,351,601,380"/>
+<area shape="rect" id="node36" href="$db/de7/classTreeViewWidget.html#a5881aa3987beba2630cc3569c27c0a3d" title="Draws the tree." alt="" coords="433,404,604,434"/>
+<area shape="rect" id="node17" href="$da/d05/classCrossoverWidget.html#a1af1d1267eafaebaae78c265518da881" title="Calculate the amount of zoom that needs to be applied for the given tree to fit in the maximum width ..." alt="" coords="411,87,627,116"/>
+<area shape="rect" id="node22" href="$d9/d7c/classMutationWidget.html#ae5054d7c7d7cc68fb61d4198bb679a90" title="Calculate the amount of zoom that needs to be applied for the given tree to fit in the maximum width ..." alt="" coords="416,191,621,220"/>
+<area shape="rect" id="node30" href="$db/de7/classTreeViewWidget.html#aa9b0819858a02d8ec13062c9b99d6b36" title="Sets the individual to view the tree for." alt="" coords="420,244,617,274"/>
+<area shape="rect" id="node38" href="$db/de7/classTreeViewWidget.html#a40851985da270a4d6a49395dc86d6699" title="Find the amount of zoom needed to fit the tree view in the given width and height." alt="" coords="415,298,623,327"/>
+<area shape="rect" id="node7" href="$db/d5e/classCrossoverWindow.html#af813b8daefd10457470dce88621f38f6" title="Set the trees to be displayed and set the animation." alt="" coords="932,39,1119,68"/>
+<area shape="rect" id="node11" href="$db/d5e/classCrossoverWindow.html#a9b62bc7457e576322b7eeca836e68fc7" title="Resets the animation from the start." alt="" coords="943,96,1108,126"/>
+<area shape="rect" id="node9" href="$db/d52/classOperatorsLesson_1_1Step5.html#a6ca116793a78fc6bf1827fa63dca2255" title="Called when the step needs to be loaded." alt="" coords="1185,26,1348,73"/>
+<area shape="rect" id="node13" href="$db/d5e/classCrossoverWindow.html#a010aed98e888ace1e718a3ae3ddb1338" title="Constructs the window." alt="" coords="1168,96,1365,142"/>
+<area shape="rect" id="node24" href="$d9/d7c/classMutationWidget.html#a91c0c0548349cf359ea1e2a0a0fba539" title="Sets the trees to display." alt="" coords="693,187,864,216"/>
+<area shape="rect" id="node26" href="$d2/dbb/classMutationWindow.html#a183715536ff87c853453ce06de29b2c0" title="Set the trees to display." alt="" coords="936,187,1115,216"/>
+<area shape="rect" id="node28" href="$d5/d83/classOperatorsLesson_1_1Step3.html#af0b4e1c536a536022002c39ec2d8d657" title="Called when the step needs to be loaded." alt="" coords="1185,178,1348,225"/>
+<area shape="rect" id="node32" href="$d2/dad/classTreeWindow.html#a52bcf63680443cd8ed51ba20e0f7cd1b" title="Sets the individual to view." alt="" coords="691,240,867,270"/>
+<area shape="rect" id="node34" href="$d2/dad/classTreeWindow.html#a2ac397449b73a8ff5c4b69e6f5c2722b" title="Constructs the window." alt="" coords="937,240,1113,270"/>
+<area shape="rect" id="node40" href="$db/de7/classTreeViewWidget.html#a969244b8c1d9953391d1ebad684b26f3" title="Called when the widget is resized." alt="" coords="689,363,868,392"/>
+<area shape="rect" id="node42" href="$db/de7/classTreeViewWidget.html#ad263de15c7da2daf6cc9d4ff23fe15e7" title="Fits the tree to the widget." alt="" coords="676,293,881,340"/>
+</map>

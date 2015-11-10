@@ -1,0 +1,5 @@
+<map id="LessonWindow::cellSelected" name="LessonWindow::cellSelected">
+<area shape="rect" id="node3" href="$db/d03/classLesson.html#af83fc919f8e4a9d8bd98f54016448f58" title="Lesson::getTitle" alt="" coords="267,5,381,35"/>
+<area shape="rect" id="node5" href="$db/d03/classLesson.html#aeace4d1a046f71fa7c3f5ff23378775c" title="Lesson::getDescription" alt="" coords="247,59,401,88"/>
+<area shape="rect" id="node7" href="$db/d03/classLesson.html#a123c84ac6534a31ca0df57c6f2a4361c" title="Lesson::getImageRes" alt="" coords="249,112,399,141"/>
+</map>

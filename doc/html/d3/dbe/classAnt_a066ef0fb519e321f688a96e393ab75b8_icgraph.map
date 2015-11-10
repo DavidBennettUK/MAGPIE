@@ -1,0 +1,6 @@
+<map id="Ant::isFoodAt" name="Ant::isFoodAt">
+<area shape="rect" id="node3" href="$d3/dbe/classAnt.html#a8bc164333a1ccb49fbeaebee2db4d030" title="Ant::isFoodInFront" alt="" coords="187,5,317,35"/>
+<area shape="rect" id="node5" href="$d3/dbe/classAnt.html#a26c7570ebfc2d0c4e846c456c185526d" title="Move the ant forward, eating the food if there is any in the new cell." alt="" coords="188,59,316,88"/>
+<area shape="rect" id="node7" href="$dc/d71/classAntViewWidget.html#afcce99c182e38c0400a8ad1f5e27f368" title="Draws the pellets." alt="" coords="159,112,345,141"/>
+<area shape="rect" id="node9" href="$dc/d71/classAntViewWidget.html#aa5bd0539f5ce45b521acfba53dd8acf0" title="Draws the lawn, lawnmower, grid and text stats." alt="" coords="395,112,560,141"/>
+</map>

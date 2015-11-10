@@ -1,0 +1,4 @@
+<map id="GenerationWindow::playIndividual" name="GenerationWindow::playIndividual">
+<area shape="rect" id="node3" href="$d4/df7/classGeneration.html#adb31e45b1eda0730cd7f0066a7cf1089" title="Get a list of Individuals in the population." alt="" coords="275,5,445,35"/>
+<area shape="rect" id="node5" href="$db/d3d/classGenerationWindow.html#a9f82e42f1036dee0ac9203f9cebc6cda" title="Called when a player window opened by this window has been closed." alt="" coords="273,58,447,105"/>
+</map>

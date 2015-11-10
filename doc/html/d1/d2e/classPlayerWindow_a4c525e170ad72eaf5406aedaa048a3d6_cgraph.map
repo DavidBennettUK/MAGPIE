@@ -1,0 +1,13 @@
+<map id="PlayerWindow::PlayerWindow" name="PlayerWindow::PlayerWindow">
+<area shape="rect" id="node3" href="$d1/d2e/classPlayerWindow.html#ae25b290c694e3d5aa0557928070f6a4c" title="Called when the play button is pressed." alt="" coords="277,87,416,117"/>
+<area shape="rect" id="node9" href="$d1/d2e/classPlayerWindow.html#a8d6fb6e9431562f0fc34e5c220e35497" title="Called when the step button is pressed." alt="" coords="259,34,435,63"/>
+<area shape="rect" id="node12" href="$d1/d2e/classPlayerWindow.html#a090467b788ce9bf6ac2fdb370f422f1b" title="Step through the animation." alt="" coords="509,7,648,37"/>
+<area shape="rect" id="node18" href="$d1/d2e/classPlayerWindow.html#a1b75a51a1ac2ad70b23c3554caa16789" title="Called when the reset button is pressed." alt="" coords="276,141,417,170"/>
+<area shape="rect" id="node23" href="$d1/d2e/classPlayerWindow.html#a361083cef4829024b18b5f3fcdc7f001" title="Set the individual to play." alt="" coords="253,194,440,223"/>
+<area shape="rect" id="node5" href="$d1/d2e/classPlayerWindow.html#a932a283e5390f93683af2adced21569a" title="Start the animation." alt="" coords="509,74,648,103"/>
+<area shape="rect" id="node7" href="$d1/d2e/classPlayerWindow.html#a4c6b0b099094888ad9ce906af9846cad" title="Stop the animation." alt="" coords="509,127,648,157"/>
+<area shape="rect" id="node14" href="$d6/d0c/classIndividual.html#ab94ce5b1e1abf28a62d970201b17ed6e" title="Perform one step of the program tree." alt="" coords="719,7,828,37"/>
+<area shape="rect" id="node16" href="$df/dd0/classNode.html#a19e29df280f2997bfcc000b884f85060" title="Evaluate the node, performing its actions." alt="" coords="879,7,988,37"/>
+<area shape="rect" id="node21" href="$d6/d0c/classIndividual.html#a87f9724fc796a08fd3a19479d02e6dc7" title="Reset the individual to initial state, where no steps have been performed." alt="" coords="521,181,636,210"/>
+<area shape="rect" id="node27" href="$de/d00/classPlayerWidget.html#a10ee4dfcd7351d790f5edd3ec0c922a2" title="Set the Individual to be drawn." alt="" coords="488,234,669,263"/>
+</map>

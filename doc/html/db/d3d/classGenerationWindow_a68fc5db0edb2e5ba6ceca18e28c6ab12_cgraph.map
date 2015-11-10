@@ -1,0 +1,7 @@
+<map id="GenerationWindow::GenerationWindow" name="GenerationWindow::GenerationWindow">
+<area shape="rect" id="node3" href="$db/d3d/classGenerationWindow.html#a231ccf1753b501b0f97c751ba7b2c34d" title="Set the number of the current generation in the scenario." alt="" coords="256,5,477,51"/>
+<area shape="rect" id="node5" href="$db/d3d/classGenerationWindow.html#ad66fc0ab5435a08335b2441953470829" title="&lt; Open a solution player window for the selected individual." alt="" coords="257,75,476,104"/>
+<area shape="rect" id="node11" href="$db/d3d/classGenerationWindow.html#a1da00bd0ab7b9048a1e5494295348c42" title="Close all player and tree windows opened from this window." alt="" coords="267,127,467,174"/>
+<area shape="rect" id="node7" href="$d4/df7/classGeneration.html#adb31e45b1eda0730cd7f0066a7cf1089" title="Get a list of Individuals in the population." alt="" coords="528,44,699,73"/>
+<area shape="rect" id="node9" href="$db/d3d/classGenerationWindow.html#a9f82e42f1036dee0ac9203f9cebc6cda" title="Called when a player window opened by this window has been closed." alt="" coords="527,97,700,143"/>
+</map>

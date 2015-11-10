@@ -1,0 +1,5 @@
+<map id="WorkspaceWindow::WorkspaceWindow" name="WorkspaceWindow::WorkspaceWindow">
+<area shape="rect" id="node3" href="$d5/d83/classWorkspaceWindow.html#a567c84a59154736f237995c840db77ef" title="Open the lesson selection window." alt="" coords="264,5,483,35"/>
+<area shape="rect" id="node7" href="$d5/d83/classWorkspaceWindow.html#a4924b5f6b6e436e831753a9740345014" title="Show the about screen." alt="" coords="269,58,477,105"/>
+<area shape="rect" id="node5" href="$db/d03/classLesson.html#a8664ea24715bb92a0b999faae658cc23" title="Called when the lesson has ended." alt="" coords="532,5,641,35"/>
+</map>

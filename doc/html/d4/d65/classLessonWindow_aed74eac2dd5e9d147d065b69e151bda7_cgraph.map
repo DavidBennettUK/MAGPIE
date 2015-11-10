@@ -1,0 +1,4 @@
+<map id="LessonWindow::loadSelectedLesson" name="LessonWindow::loadSelectedLesson">
+<area shape="rect" id="node3" href="$db/d03/classLesson.html#a2ab6d9a6a6fdbdf3dba8f8c5de98ea9c" title="Called when the lesson needs to be loaded." alt="" coords="275,5,371,35"/>
+<area shape="rect" id="node5" href="$db/d03/classLesson.html#a6db408dd52cb28be5a381d389f31372f" title="Load the first step of the lesson." alt="" coords="248,59,397,88"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="GraphWindow::GraphWindow" name="GraphWindow::GraphWindow">
+<area shape="rect" id="node3" href="$d2/d8c/classGraphWindow.html#a1900da070e81a82fd3d10856d985136e" title="Set the range for the x&#45;axis." alt="" coords="279,5,447,35"/>
+<area shape="rect" id="node5" href="$da/d49/classScenario.html#a5f42085969493ef7ff045459cc9a570b" title="Get the maximum number of Generations this scenario can generate." alt="" coords="249,59,476,88"/>
+<area shape="rect" id="node7" href="$d2/d8c/classGraphWindow.html#a5ef4b8a27e386d5fefc141b0f0030990" title="Replot the graph, scaling the axes to fit." alt="" coords="525,137,712,167"/>
+<area shape="rect" id="node9" href="$d2/d8c/classGraphWindow.html#a0dcc848df549cd91d3dbe1111aca33a2" title="Called when a run has finished to stop the update timer." alt="" coords="273,163,452,192"/>
+<area shape="rect" id="node12" href="$d2/d8c/classGraphWindow.html#a6fd293b4440777d0e271f7d036bc0028" title="Clear the graph plot lines." alt="" coords="293,216,432,245"/>
+<area shape="rect" id="node14" href="$d2/d8c/classGraphWindow.html#ac3e1e4cc81039bfc26c80ee12eb593ef" title="Called when a generation is complete to update the graphs." alt="" coords="249,269,476,299"/>
+</map>

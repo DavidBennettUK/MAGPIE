@@ -1,0 +1,6 @@
+<map id="Scenario::setInitialGeneration" name="Scenario::setInitialGeneration">
+<area shape="rect" id="node3" href="$classScenario.html#aa7aaadf3e41fdb420ed3c9c7c617fb39" title="Emitted when a Generation is complete." alt="" coords="248,5,445,35"/>
+<area shape="rect" id="node5" href="$classGeneration.html#a1b1a00c0613b0e1a92779a917bd61e6a" title="Creates a deep&#45;copy clone of the generation." alt="" coords="285,59,408,88"/>
+<area shape="rect" id="node7" href="$classGeneration.html#a1b6f492d33734fdba118d618528923d7" title="Constructs the generation with a maximum population size." alt="" coords="495,32,649,61"/>
+<area shape="rect" id="node9" href="$classIndividual.html#a0c60799e1810c4ec730f8f5a5cb835b4" title="Deep&#45;copy the individual." alt="" coords="515,85,629,115"/>
+</map>

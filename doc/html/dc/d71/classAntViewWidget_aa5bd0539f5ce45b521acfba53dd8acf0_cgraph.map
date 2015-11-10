@@ -1,0 +1,15 @@
+<map id="AntViewWidget::paintGL" name="AntViewWidget::paintGL">
+<area shape="rect" id="node3" href="$dc/d71/classAntViewWidget.html#afcce99c182e38c0400a8ad1f5e27f368" title="Draws the pellets." alt="" coords="220,112,407,141"/>
+<area shape="rect" id="node13" href="$dc/d71/classAntViewWidget.html#a6b3da793f9c45bb3c13d7c4e4cf55645" title="Draws the grid." alt="" coords="228,165,399,195"/>
+<area shape="rect" id="node17" href="$dc/d71/classAntViewWidget.html#a3278878743a497d3423c0cb17064b496" title="Draws the ant." alt="" coords="229,219,397,248"/>
+<area shape="rect" id="node27" href="$dc/d71/classAntViewWidget.html#aa7260960d22d3c5dc0f1f6cef70b4835" title="Draws the stats text." alt="" coords="227,379,400,408"/>
+<area shape="rect" id="node5" href="$d3/dbe/classAnt.html#a3a06baedd481f2763350df6dc9c83e42" title="Ant::getGridWidth" alt="" coords="459,112,584,141"/>
+<area shape="rect" id="node7" href="$d3/dbe/classAnt.html#aeb6da96228d83e925a71289b55749ec8" title="Ant::getGridHeight" alt="" coords="456,165,587,195"/>
+<area shape="rect" id="node9" href="$d3/dbe/classAnt.html#a066ef0fb519e321f688a96e393ab75b8" title="Check if there is food at the given coordinates." alt="" coords="471,59,572,88"/>
+<area shape="rect" id="node11" href="$d3/dbe/classAnt.html#a00e80f4b53e11e2d2d3484ffc58f0d92" title="Check if the ant has visited the given coordinates." alt="" coords="467,5,576,35"/>
+<area shape="rect" id="node19" href="$d3/dbe/classAnt.html#a8ec8651ed878df417ad92f96a2aa7e21" title="Gets the column the lawnmower is currently in." alt="" coords="483,219,560,248"/>
+<area shape="rect" id="node22" href="$d3/dbe/classAnt.html#aa5844bb2d578b2fd24df290cbda214e4" title="Gets the row the lawnmower is currently in." alt="" coords="483,272,560,301"/>
+<area shape="rect" id="node25" href="$d3/dbe/classAnt.html#a7d03490f663ab02f69a6733e336fc981" title="Gets the direction the ant is facing." alt="" coords="468,325,575,355"/>
+<area shape="rect" id="node29" href="$d3/dbe/classAnt.html#a8d4804c544ef55910132186cf8c4d6a5" title="Ant::getMoves" alt="" coords="468,432,575,461"/>
+<area shape="rect" id="node31" href="$d3/dbe/classAnt.html#a6022b480af41abfe1218cd4fd92537fe" title="Ant::getPoints" alt="" coords="469,379,573,408"/>
+</map>

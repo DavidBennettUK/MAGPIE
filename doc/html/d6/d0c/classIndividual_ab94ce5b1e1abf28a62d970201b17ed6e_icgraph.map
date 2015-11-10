@@ -1,0 +1,5 @@
+<map id="Individual::step" name="Individual::step">
+<area shape="rect" id="node3" href="$d1/d2e/classPlayerWindow.html#a090467b788ce9bf6ac2fdb370f422f1b" title="Step through the animation." alt="" coords="165,5,304,35"/>
+<area shape="rect" id="node5" href="$d1/d2e/classPlayerWindow.html#a4c525e170ad72eaf5406aedaa048a3d6" title="Constructs the window." alt="" coords="580,5,777,35"/>
+<area shape="rect" id="node7" href="$d1/d2e/classPlayerWindow.html#a8d6fb6e9431562f0fc34e5c220e35497" title="Called when the step button is pressed." alt="" coords="353,31,529,60"/>
+</map>

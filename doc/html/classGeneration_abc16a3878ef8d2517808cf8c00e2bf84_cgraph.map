@@ -1,0 +1,5 @@
+<map id="Generation::getAverageFitness" name="Generation::getAverageFitness">
+<area shape="rect" id="node3" href="$classGeneration.html#aad11acfe325d34f80e37d273ccc4ff51" title="Get the total fitness value of all Individual in the population." alt="" coords="257,32,439,61"/>
+<area shape="rect" id="node5" href="$classIndividual.html#af9523805cdf3e5dacdce24bfd4bf052a" title="Get the fitness of the individual." alt="" coords="488,5,635,35"/>
+<area shape="rect" id="node7" href="$classFitness.html#a767764b2f60aef9249a86d57f19790c5" title="Get the fitness value." alt="" coords="500,59,623,88"/>
+</map>

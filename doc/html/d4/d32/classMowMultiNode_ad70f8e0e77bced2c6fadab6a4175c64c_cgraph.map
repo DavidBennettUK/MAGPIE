@@ -1,0 +1,6 @@
+<map id="MowMultiNode::clone" name="MowMultiNode::clone">
+<area shape="rect" id="node3" href="$d4/d32/classMowMultiNode.html#ae845fc1342cb5b58e14e855986984f74" title="Create a new LeftNode." alt="" coords="204,5,356,35"/>
+<area shape="rect" id="node7" href="$df/dd0/classNode.html#a132699398b350e83b548a5645e69beb0" title="Add a child to this node." alt="" coords="224,59,336,88"/>
+<area shape="rect" id="node9" href="$df/dd0/classNode.html#a4a4b6ade8975154630f781989665a863" title="Creates a deep&#45;copy of this node." alt="" coords="235,112,325,141"/>
+<area shape="rect" id="node5" href="$d4/d32/classMowMultiNode.html#a6016bf97d9f214e0c61973b4021c7bf2" title="Constructs the node with an arity of 0 and the name &#39;Mow&#39;." alt="" coords="407,5,609,35"/>
+</map>

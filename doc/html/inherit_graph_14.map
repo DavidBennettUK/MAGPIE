@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d6/d0c/classIndividual.html" title="Base individual class." alt="" coords="5,32,83,61"/>
+<area shape="rect" id="node3" href="$d3/dbe/classAnt.html" title="Represents an ant in the artifical ant problem." alt="" coords="156,5,199,35"/>
+<area shape="rect" id="node5" href="$de/db6/classLawnmower.html" title="Represents a lawnmower, to be used in lawnmower scenarios." alt="" coords="132,59,223,88"/>
+<area shape="rect" id="node7" href="$df/da1/classLawnmowerMulti.html" title="Represents a multi&#45;objective lawnmower, to be used in lawnmower scenarios, that accounts for obstacle..." alt="" coords="272,59,392,88"/>
+</map>

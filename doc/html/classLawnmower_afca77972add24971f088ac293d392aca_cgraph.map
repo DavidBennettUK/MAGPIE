@@ -1,0 +1,4 @@
+<map id="Lawnmower::Lawnmower" name="Lawnmower::Lawnmower">
+<area shape="rect" id="node3" href="$classLawnmower.html#ac6068cc64b55c4026366f6b173827ab4" title="Reset the lawnmower to its initial state." alt="" coords="225,5,353,35"/>
+<area shape="rect" id="node5" href="$classEnvironment.html#a9bf96c5e6b817be1595b24992cde8e82" title="Resets the garden to an unmowed state." alt="" coords="404,5,535,35"/>
+</map>

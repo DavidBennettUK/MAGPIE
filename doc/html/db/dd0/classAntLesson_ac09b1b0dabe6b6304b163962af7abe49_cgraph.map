@@ -1,0 +1,5 @@
+<map id="AntLesson::newRun" name="AntLesson::newRun">
+<area shape="rect" id="node3" href="$db/d3d/classGenerationWindow.html#a1da00bd0ab7b9048a1e5494295348c42" title="Close all player and tree windows opened from this window." alt="" coords="195,5,395,51"/>
+<area shape="rect" id="node5" href="$db/d3d/classGenerationWindow.html#a3a0830aff40494c593f1011dae515b49" title="Clear the table of individuals." alt="" coords="211,75,379,104"/>
+<area shape="rect" id="node7" href="$db/d3d/classGenerationWindow.html#a231ccf1753b501b0f97c751ba7b2c34d" title="Set the number of the current generation in the scenario." alt="" coords="443,66,664,113"/>
+</map>

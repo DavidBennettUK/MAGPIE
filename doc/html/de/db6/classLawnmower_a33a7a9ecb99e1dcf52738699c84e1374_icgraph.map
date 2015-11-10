@@ -1,0 +1,4 @@
+<map id="Lawnmower::getY" name="Lawnmower::getY">
+<area shape="rect" id="node3" href="$db/d48/classLawnViewWidget.html#af48d7a04194f90b19d8202a0db6d6497" title="Draws the lawnmower." alt="" coords="183,5,372,51"/>
+<area shape="rect" id="node5" href="$db/d48/classLawnViewWidget.html#abf759a811bf87b321bfc053d62d61865" title="Draws the lawn, lawnmower, grid and text stats." alt="" coords="421,13,597,43"/>
+</map>

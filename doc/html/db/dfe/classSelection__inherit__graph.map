@@ -1,0 +1,4 @@
+<map id="Selection" name="Selection">
+<area shape="rect" id="node3" href="$d0/dfb/classRouletteSelection.html" title="Helper class to perform roulette selection on a generation." alt="" coords="5,83,131,112"/>
+<area shape="rect" id="node5" href="$de/d36/classTournamentSelection.html" title="Helper class to perform tournament selection on a generation." alt="" coords="155,83,299,112"/>
+</map>

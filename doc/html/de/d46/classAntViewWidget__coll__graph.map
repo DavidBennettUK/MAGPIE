@@ -1,0 +1,7 @@
+<map id="AntViewWidget" name="AntViewWidget">
+<area shape="rect" id="node2" href="$de/d00/classPlayerWidget.html" title="Base class for player widgets." alt="" coords="5,181,104,211"/>
+<area shape="rect" id="node4" href="$d3/dbe/classAnt.html" title="Represents an ant in the artifical ant problem." alt="" coords="128,181,171,211"/>
+<area shape="rect" id="node6" href="$d6/d0c/classIndividual.html" title="Base individual class." alt="" coords="111,101,188,131"/>
+<area shape="rect" id="node8" href="$df/dd0/classNode.html" title="Base node class for program trees." alt="" coords="20,5,73,35"/>
+<area shape="rect" id="node11" href="$d4/dda/classFitness.html" title="Base fitness class." alt="" coords="163,5,227,35"/>
+</map>

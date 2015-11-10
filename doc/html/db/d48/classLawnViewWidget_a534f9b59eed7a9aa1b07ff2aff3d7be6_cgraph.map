@@ -1,0 +1,4 @@
+<map id="LawnViewWidget::drawText" name="LawnViewWidget::drawText">
+<area shape="rect" id="node3" href="$de/db6/classLawnmower.html#aa0a638fdf7f13041e3b922586b3e77ad" title="Get the number of moves the program has made." alt="" coords="240,5,397,35"/>
+<area shape="rect" id="node5" href="$de/db6/classLawnmower.html#a4a348708c852df157579495e1b115ca7" title="Gets the number of tiles that have been mowed." alt="" coords="241,59,396,88"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Ant::getFacing" name="Ant::getFacing">
+<area shape="rect" id="node3" href="$d3/dbe/classAnt.html#a169f769e2f923a9ad93f6263f905eb35" title="Turn the ant 90°." alt="" coords="208,5,280,35"/>
+<area shape="rect" id="node5" href="$dc/d71/classAntViewWidget.html#a3278878743a497d3423c0cb17064b496" title="Draws the ant." alt="" coords="160,59,328,88"/>
+<area shape="rect" id="node7" href="$dc/d71/classAntViewWidget.html#aa5bd0539f5ce45b521acfba53dd8acf0" title="Draws the lawn, lawnmower, grid and text stats." alt="" coords="376,59,541,88"/>
+</map>

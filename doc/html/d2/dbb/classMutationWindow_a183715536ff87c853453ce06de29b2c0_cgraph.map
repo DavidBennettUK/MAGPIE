@@ -1,0 +1,24 @@
+<map id="MutationWindow::setTrees" name="MutationWindow::setTrees">
+<area shape="rect" id="node3" href="$d9/d7c/classMutationWidget.html#a91c0c0548349cf359ea1e2a0a0fba539" title="Sets the trees to display." alt="" coords="233,361,404,391"/>
+<area shape="rect" id="node5" href="$d3/daf/classDrawTreeBuilder.html#a3c8e58df63262612e3b26fcdf5260956" title="Builds a draw tree from the given tree." alt="" coords="480,281,635,311"/>
+<area shape="rect" id="node29" href="$d9/d7c/classMutationWidget.html#ae5054d7c7d7cc68fb61d4198bb679a90" title="Calculate the amount of zoom that needs to be applied for the given tree to fit in the maximum width ..." alt="" coords="455,361,660,391"/>
+<area shape="rect" id="node43" href="$df/dd0/classNode.html#a5b73dcbf986733bf5f24ba24821c44fd" title="Get a reference to a child Node by its index." alt="" coords="503,465,612,495"/>
+<area shape="rect" id="node7" href="$d3/daf/classDrawTreeBuilder.html#adcc31bd25b0671108b4698fb16a3d68c" title="DrawTreeBuilder::firstWalk" alt="" coords="720,228,899,257"/>
+<area shape="rect" id="node27" href="$d3/daf/classDrawTreeBuilder.html#a58f2c8ad68836687c5b1244286f47cfb" title="DrawTreeBuilder::secondWalk" alt="" coords="711,281,908,311"/>
+<area shape="rect" id="node9" href="$d6/d4b/classDrawNode.html#a69350f3cf23a7ab846b9e1b464d89ae0" title="DrawNode::getLeftmostSibling" alt="" coords="1189,220,1389,249"/>
+<area shape="rect" id="node11" href="$d6/d4b/classDrawNode.html#af647c1992119a74b36624442e9d6e010" title="DrawNode::leftSibling" alt="" coords="1215,276,1364,305"/>
+<area shape="rect" id="node13" href="$d3/daf/classDrawTreeBuilder.html#a411a7e04f8fa1d235f56d81b54a2af12" title="DrawTreeBuilder::apportion" alt="" coords="959,111,1137,140"/>
+<area shape="rect" id="node25" href="$d3/daf/classDrawTreeBuilder.html#a0877d750c0c406c4e982eaa02507cd15" title="DrawTreeBuilder::execute\lShifts" alt="" coords="961,163,1135,210"/>
+<area shape="rect" id="node17" href="$d6/d4b/classDrawNode.html#af8387998a83841aa18097aad83a5f62f" title="DrawNode::nextRight" alt="" coords="1216,112,1363,141"/>
+<area shape="rect" id="node19" href="$d6/d4b/classDrawNode.html#acee0e825c3900a043299d054e4a2ed5b" title="DrawNode::nextLeft" alt="" coords="1220,165,1359,195"/>
+<area shape="rect" id="node21" href="$d3/daf/classDrawTreeBuilder.html#a7f4c76b86898d98aced03984f01a8843" title="DrawTreeBuilder::moveSubtree" alt="" coords="1188,5,1391,35"/>
+<area shape="rect" id="node23" href="$d3/daf/classDrawTreeBuilder.html#aa08c7653b823a8a03ab5ad955db9102b" title="DrawTreeBuilder::ancestor" alt="" coords="1201,59,1377,88"/>
+<area shape="rect" id="node31" href="$d6/d4b/classDrawNode.html#a27ad2c16ed3d4095068c1934c6c06fee" title="DrawNode::getWidth" alt="" coords="737,335,881,364"/>
+<area shape="rect" id="node37" href="$d6/d4b/classDrawNode.html#adff69726286a1f83878c156a1fa771ec" title="DrawNode::getHeight" alt="" coords="736,388,883,417"/>
+<area shape="rect" id="node33" href="$d6/d4b/classDrawNode.html#a5cd116dcfd2564bc7c4e714d034eef75" title="DrawNode::getBoundsH" alt="" coords="967,335,1129,364"/>
+<area shape="rect" id="node35" href="$d6/d4b/classDrawNode.html#a86f6a849090303f895041ac9f80ddf3b" title="DrawNode::getX" alt="" coords="1231,335,1348,364"/>
+<area shape="rect" id="node39" href="$d6/d4b/classDrawNode.html#a9009b3c397d55dee486ae8539f4bf669" title="DrawNode::getBoundsV" alt="" coords="967,388,1129,417"/>
+<area shape="rect" id="node41" href="$d6/d4b/classDrawNode.html#a8d564e87336b7fda3999fa3b1a55bc9a" title="DrawNode::getY" alt="" coords="1231,388,1348,417"/>
+<area shape="rect" id="node45" href="$df/dd0/classNode.html#abda679dab3579ff77441b31d7e9893f3" title="Get the total number of nodes in this tree, including the root node." alt="" coords="757,465,861,495"/>
+<area shape="rect" id="node48" href="$df/dd0/classNode.html#ad4e3aa154a0f4e420e24b71959a31066" title="Get the children of this node." alt="" coords="747,519,872,548"/>
+</map>

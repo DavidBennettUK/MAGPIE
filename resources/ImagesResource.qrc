@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>lesson1_preview.png</file>
+        <file>lesson2_preview.png</file>
+        <file>lesson3_preview.png</file>
+        <file>lesson4_preview.png</file>
+        <file>welcome.png</file>
+        <file>icon.ico</file>
+        <file>icon_trans.ico</file>
+        <file>splash.png</file>
+        <file>lesson6_preview.png</file>
+        <file>lesson5_preview.png</file>
+        <file>lesson7_preview.png</file>
+        <file>lesson8_preview.png</file>
+    </qresource>
+</RCC>

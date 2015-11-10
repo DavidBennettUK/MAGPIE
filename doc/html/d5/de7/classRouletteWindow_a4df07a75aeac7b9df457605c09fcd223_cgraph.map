@@ -1,0 +1,8 @@
+<map id="RouletteWindow::RouletteWindow" name="RouletteWindow::RouletteWindow">
+<area shape="rect" id="node3" href="$d5/de7/classRouletteWindow.html#a612060c93e2767d2b58a283cbd7170da" title="Emitted when the animation has finished." alt="" coords="244,5,415,35"/>
+<area shape="rect" id="node5" href="$d5/de7/classRouletteWindow.html#a1961a5a396ee44207aac1881488e1525" title="Selects the winning individual in the generation window." alt="" coords="231,59,428,88"/>
+<area shape="rect" id="node11" href="$d5/de7/classRouletteWindow.html#a0e0ae78c2529767776ba398ec52c30a8" title="Replay the animation ." alt="" coords="249,113,409,143"/>
+<area shape="rect" id="node7" href="$db/d3d/classGenerationWindow.html#afa19ff2cf6fe1f99103f69ab61d8209b" title="Highlight the given individual in the list of individuals." alt="" coords="479,47,652,94"/>
+<area shape="rect" id="node9" href="$d4/df7/classGeneration.html#adb31e45b1eda0730cd7f0066a7cf1089" title="Get a list of Individuals in the population." alt="" coords="703,56,873,85"/>
+<area shape="rect" id="node13" href="$da/d5f/classRouletteWidget.html#aabb7d231512eecbd21adf40ed804e2ee" title="Play the animation from the start." alt="" coords="491,117,640,147"/>
+</map>

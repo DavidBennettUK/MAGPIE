@@ -1,0 +1,7 @@
+<map id="Scenario::pauseRun" name="Scenario::pauseRun">
+<area shape="rect" id="node3" href="$db/dd0/classAntLesson.html#a3e4ea4c4ce8393b08e026cd032306dfd" title="Unloads the lesson." alt="" coords="217,5,348,35"/>
+<area shape="rect" id="node5" href="$de/dbd/classExperimentLesson.html#ad2dd7b8854133fa5ab4ed1cf0a25126f" title="Unloads the lesson." alt="" coords="195,59,371,88"/>
+<area shape="rect" id="node7" href="$d7/d66/classMultiObjectiveLesson.html#a938ffc27575d2dedfc418e75808750fd" title="Unloads the lesson." alt="" coords="209,111,356,158"/>
+<area shape="rect" id="node9" href="$d4/d88/classGPRunWindow.html#a0afaa9c24112983cfb42bf3e6083cfa0" title="Begins the GP run." alt="" coords="213,181,352,211"/>
+<area shape="rect" id="node11" href="$d4/d88/classGPRunWindow.html#ab77c7cb56c912bb9d856df9be9b2469c" title="Constructs the window." alt="" coords="419,181,629,211"/>
+</map>

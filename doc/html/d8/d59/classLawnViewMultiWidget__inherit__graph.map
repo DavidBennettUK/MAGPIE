@@ -1,0 +1,4 @@
+<map id="LawnViewMultiWidget" name="LawnViewMultiWidget">
+<area shape="rect" id="node2" href="$db/d48/classLawnViewWidget.html" title="View for a lawnmower mowing a lawn." alt="" coords="19,83,141,112"/>
+<area shape="rect" id="node4" href="$de/d00/classPlayerWidget.html" title="Base class for player widgets." alt="" coords="31,5,129,35"/>
+</map>

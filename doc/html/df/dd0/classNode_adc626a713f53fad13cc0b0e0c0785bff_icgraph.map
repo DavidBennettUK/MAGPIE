@@ -1,0 +1,18 @@
+<map id="Node::getName" name="Node::getName">
+<area shape="rect" id="node3" href="$df/d55/classTreeFactory.html#a69154a282544ba2c6d1e7163380d0de1" title="Helper method to get a node from the terminal and functional sets by name." alt="" coords="168,171,360,200"/>
+<area shape="rect" id="node23" href="$da/d05/classCrossoverWidget.html#adf55b7b2350e083dba1199eb9d9b48c9" title="Recursively draw the node text labels." alt="" coords="169,224,359,253"/>
+<area shape="rect" id="node27" href="$d9/d7c/classMutationWidget.html#a63746291bd333b5fcc9e5f399ef5ae12" title="Recursively draw the node text labels." alt="" coords="175,277,353,307"/>
+<area shape="rect" id="node31" href="$db/de7/classTreeViewWidget.html#a911741b3781b0f749f09fbc8826776de" title="Recursively draw the text node labels." alt="" coords="172,331,356,360"/>
+<area shape="rect" id="node5" href="$df/d55/classTreeFactory.html#ab128e42a331deac6acc1b9ec85c6d746" title="Build a tree from the given string." alt="" coords="409,171,599,200"/>
+<area shape="rect" id="node7" href="$df/d08/classIntroductionLesson_1_1Step1.html#ac29df292ac81983957a1870fa9c09225" title="Called when the step needs to be loaded." alt="" coords="679,5,809,51"/>
+<area shape="rect" id="node9" href="$dd/dd3/classIntroductionLesson_1_1Step4.html#a0aa3feac13ab8653f3cec6985b427d53" title="Called when the step needs to be loaded." alt="" coords="679,74,809,121"/>
+<area shape="rect" id="node11" href="$db/dd8/classTreeLesson.html#a3c038cf643e9efdef92d1d07e38373d7" title="Loads the lesson." alt="" coords="683,144,805,173"/>
+<area shape="rect" id="node13" href="$d7/d9d/classAntScenario.html#a8ee15d2fcfcbd84eee4556a814bb5b69" title="Create an ant from a string, using LISP&#45;like syntax." alt="" coords="648,197,840,227"/>
+<area shape="rect" id="node17" href="$de/d06/classLawnmowerScenario.html#af69c9a99322a69b92cf2c67599379339" title="Create a lawnmower from a string, using LISP&#45;like syntax." alt="" coords="671,250,817,297"/>
+<area shape="rect" id="node21" href="$d5/d17/classLawnmowerMultiScenario.html#a9508757a1676865b28358cab55bddf18" title="Create a lawnmower from a string, using LISP&#45;like syntax." alt="" coords="659,319,829,366"/>
+<area shape="rect" id="node15" href="$d2/da6/classAntLesson_1_1FinalStep.html#aa5f74dc2fa753224e12be57684690253" title="Called when the step needs to be loaded." alt="" coords="888,189,1035,235"/>
+<area shape="rect" id="node19" href="$d9/dca/classGPRunLesson.html#ac15654b31fb4c79e1063e02ebd0c0f78" title="Loads the lesson." alt="" coords="892,259,1031,288"/>
+<area shape="rect" id="node25" href="$da/d05/classCrossoverWidget.html#a2a61d42610399e2627657ce5e9c10dda" title="Draws the animation." alt="" coords="416,224,592,253"/>
+<area shape="rect" id="node29" href="$d9/d7c/classMutationWidget.html#a8be4576af55244204301e73572a41132" title="Draws the animation." alt="" coords="421,277,587,307"/>
+<area shape="rect" id="node33" href="$db/de7/classTreeViewWidget.html#a5881aa3987beba2630cc3569c27c0a3d" title="Draws the tree." alt="" coords="419,331,589,360"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PlayerWidget" name="PlayerWidget">
+<area shape="rect" id="node3" href="$dc/d71/classAntViewWidget.html" title="View for the artifical ant problem." alt="" coords="5,83,117,112"/>
+<area shape="rect" id="node5" href="$db/d48/classLawnViewWidget.html" title="View for a lawnmower mowing a lawn." alt="" coords="141,83,264,112"/>
+<area shape="rect" id="node7" href="$d2/d30/classLawnViewMultiWidget.html" title="View for the lawnmower problem with obstacles." alt="" coords="128,160,277,189"/>
+</map>

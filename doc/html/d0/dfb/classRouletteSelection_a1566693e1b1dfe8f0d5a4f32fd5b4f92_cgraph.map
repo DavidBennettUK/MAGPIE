@@ -1,0 +1,8 @@
+<map id="RouletteSelection::selectIndividual" name="RouletteSelection::selectIndividual">
+<area shape="rect" id="node3" href="$d4/df7/classGeneration.html#ad8af1bc64c09acba4406349960a91761" title="Get the current number of Individuals in the population." alt="" coords="215,5,351,35"/>
+<area shape="rect" id="node5" href="$d4/df7/classGeneration.html#aad11acfe325d34f80e37d273ccc4ff51" title="Get the total fitness value of all Individual in the population." alt="" coords="192,59,373,88"/>
+<area shape="rect" id="node11" href="$d4/df7/classGeneration.html#a9f5c39652752fb3550d118b466c251cb" title="Get the lowest fitness value in the population." alt="" coords="185,112,380,141"/>
+<area shape="rect" id="node15" href="$d4/df7/classGeneration.html#adb31e45b1eda0730cd7f0066a7cf1089" title="Get a list of Individuals in the population." alt="" coords="197,165,368,195"/>
+<area shape="rect" id="node7" href="$d6/d0c/classIndividual.html#af9523805cdf3e5dacdce24bfd4bf052a" title="Get the fitness of the individual." alt="" coords="429,59,576,88"/>
+<area shape="rect" id="node9" href="$d4/dda/classFitness.html#a767764b2f60aef9249a86d57f19790c5" title="Get the fitness value." alt="" coords="441,112,564,141"/>
+</map>

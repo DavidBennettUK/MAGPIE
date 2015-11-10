@@ -1,0 +1,6 @@
+<map id="RouletteWidget::paintGL" name="RouletteWidget::paintGL">
+<area shape="rect" id="node3" href="$classGeneration.html#adb31e45b1eda0730cd7f0066a7cf1089" title="Get a list of Individuals in the population." alt="" coords="225,5,396,35"/>
+<area shape="rect" id="node5" href="$classIndividual.html#af9523805cdf3e5dacdce24bfd4bf052a" title="Get the fitness of the individual." alt="" coords="451,71,597,100"/>
+<area shape="rect" id="node7" href="$classFitness.html#a767764b2f60aef9249a86d57f19790c5" title="Get the fitness value." alt="" coords="463,136,585,165"/>
+<area shape="rect" id="node9" href="$classGeneration.html#aad11acfe325d34f80e37d273ccc4ff51" title="Get the total fitness value of all Individual in the population." alt="" coords="220,109,401,139"/>
+</map>

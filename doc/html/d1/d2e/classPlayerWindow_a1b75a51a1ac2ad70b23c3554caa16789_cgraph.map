@@ -1,0 +1,4 @@
+<map id="PlayerWindow::reset" name="PlayerWindow::reset">
+<area shape="rect" id="node3" href="$d1/d2e/classPlayerWindow.html#a4c6b0b099094888ad9ce906af9846cad" title="Stop the animation." alt="" coords="197,5,336,35"/>
+<area shape="rect" id="node5" href="$d6/d0c/classIndividual.html#a87f9724fc796a08fd3a19479d02e6dc7" title="Reset the individual to initial state, where no steps have been performed." alt="" coords="209,59,324,88"/>
+</map>

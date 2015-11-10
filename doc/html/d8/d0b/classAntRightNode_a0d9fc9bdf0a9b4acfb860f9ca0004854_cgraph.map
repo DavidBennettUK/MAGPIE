@@ -1,0 +1,6 @@
+<map id="AntRightNode::clone" name="AntRightNode::clone">
+<area shape="rect" id="node3" href="$d8/d0b/classAntRightNode.html#a991c86dd1890befde5885dbf0a1c7c73" title="Create a new AntRightNode." alt="" coords="199,5,345,35"/>
+<area shape="rect" id="node7" href="$df/dd0/classNode.html#a132699398b350e83b548a5645e69beb0" title="Add a child to this node." alt="" coords="216,59,328,88"/>
+<area shape="rect" id="node9" href="$df/dd0/classNode.html#a4a4b6ade8975154630f781989665a863" title="Creates a deep&#45;copy of this node." alt="" coords="227,112,317,141"/>
+<area shape="rect" id="node5" href="$d8/d0b/classAntRightNode.html#acc734008844e7b04f64a127df0a986fc" title="Constructs the node with an arity of 0 and the name &#39;Right&#39;." alt="" coords="395,5,589,35"/>
+</map>

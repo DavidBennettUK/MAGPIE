@@ -1,0 +1,5 @@
+<map id="Ant::reset" name="Ant::reset">
+<area shape="rect" id="node3" href="$d3/dbe/classAnt.html#ad8d8cfd438da97d83cf7fcd8ec02a295" title="Constructs the ant." alt="" coords="155,5,224,35"/>
+<area shape="rect" id="node7" href="$d3/dbe/classAnt.html#a1bed35cfe1ba837cf82343bce675d1d8" title="Get the fitness of the individual." alt="" coords="135,59,244,88"/>
+<area shape="rect" id="node5" href="$d3/dbe/classAnt.html#ad572448284eaf2b02b15dfc477996ba4" title="Creates a deep&#45;copy of the ant." alt="" coords="295,5,375,35"/>
+</map>

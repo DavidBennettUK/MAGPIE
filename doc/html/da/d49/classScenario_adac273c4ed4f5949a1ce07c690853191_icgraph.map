@@ -1,0 +1,5 @@
+<map id="Scenario::newRun" name="Scenario::newRun">
+<area shape="rect" id="node3" href="$da/d49/classScenario.html#a5a2201cff446cd8722d47930851654ff" title="Reset the scenario, deleting all Individuals and Generations." alt="" coords="185,5,295,35"/>
+<area shape="rect" id="node5" href="$d4/d88/classGPRunWindow.html#a72e878c3ca45345e906ea3af628b86ba" title="Restart the run from the beginning." alt="" coords="344,5,493,35"/>
+<area shape="rect" id="node7" href="$d4/d88/classGPRunWindow.html#ab77c7cb56c912bb9d856df9be9b2469c" title="Constructs the window." alt="" coords="541,5,752,35"/>
+</map>

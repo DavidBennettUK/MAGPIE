@@ -1,0 +1,5 @@
+<map id="GPRunWindow::reset" name="GPRunWindow::reset">
+<area shape="rect" id="node3" href="$da/d49/classScenario.html#a5a2201cff446cd8722d47930851654ff" title="Reset the scenario, deleting all Individuals and Generations." alt="" coords="252,5,361,35"/>
+<area shape="rect" id="node7" href="$d4/d88/classGPRunWindow.html#a40ffc23408168c48cfb610b1e70017b3" title="Toggle the usability of run options." alt="" coords="204,59,409,88"/>
+<area shape="rect" id="node5" href="$da/d49/classScenario.html#adac273c4ed4f5949a1ce07c690853191" title="Emitted when a the scenario is reset." alt="" coords="460,5,588,35"/>
+</map>

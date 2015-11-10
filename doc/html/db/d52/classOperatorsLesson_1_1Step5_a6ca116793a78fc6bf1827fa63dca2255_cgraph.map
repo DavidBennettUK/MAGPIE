@@ -1,0 +1,27 @@
+<map id="OperatorsLesson::Step5::load" name="OperatorsLesson::Step5::load">
+<area shape="rect" id="node3" href="$df/dd0/classNode.html#a4a4b6ade8975154630f781989665a863" title="Creates a deep&#45;copy of this node." alt="" coords="748,224,839,253"/>
+<area shape="rect" id="node5" href="$db/d5e/classCrossoverWindow.html#af813b8daefd10457470dce88621f38f6" title="Set the trees to be displayed and set the animation." alt="" coords="217,356,404,385"/>
+<area shape="rect" id="node7" href="$da/d05/classCrossoverWidget.html#a0166d9f82cd828d292b558eff764b2a5" title="Set the trees for the widget to display." alt="" coords="455,461,636,491"/>
+<area shape="rect" id="node9" href="$d3/daf/classDrawTreeBuilder.html#a3c8e58df63262612e3b26fcdf5260956" title="Builds a draw tree from the given tree." alt="" coords="716,277,871,307"/>
+<area shape="rect" id="node33" href="$da/d05/classCrossoverWidget.html#a1af1d1267eafaebaae78c265518da881" title="Calculate the amount of zoom that needs to be applied for the given tree to fit in the maximum width ..." alt="" coords="685,539,901,568"/>
+<area shape="rect" id="node35" href="$d6/d4b/classDrawNode.html#a27ad2c16ed3d4095068c1934c6c06fee" title="DrawNode::getWidth" alt="" coords="977,641,1121,671"/>
+<area shape="rect" id="node37" href="$d6/d4b/classDrawNode.html#a5cd116dcfd2564bc7c4e714d034eef75" title="DrawNode::getBoundsH" alt="" coords="1207,692,1369,721"/>
+<area shape="rect" id="node39" href="$d6/d4b/classDrawNode.html#a86f6a849090303f895041ac9f80ddf3b" title="DrawNode::getX" alt="" coords="1471,717,1588,747"/>
+<area shape="rect" id="node41" href="$d6/d4b/classDrawNode.html#adff69726286a1f83878c156a1fa771ec" title="DrawNode::getHeight" alt="" coords="976,512,1123,541"/>
+<area shape="rect" id="node43" href="$d6/d4b/classDrawNode.html#a9009b3c397d55dee486ae8539f4bf669" title="DrawNode::getBoundsV" alt="" coords="1207,512,1369,541"/>
+<area shape="rect" id="node45" href="$d6/d4b/classDrawNode.html#a8d564e87336b7fda3999fa3b1a55bc9a" title="DrawNode::getY" alt="" coords="1471,551,1588,580"/>
+<area shape="rect" id="node47" href="$df/dd0/classNode.html#a5b73dcbf986733bf5f24ba24821c44fd" title="Get a reference to a child Node by its index." alt="" coords="739,331,848,360"/>
+<area shape="rect" id="node55" href="$d6/d4b/classDrawNode.html#a2cd8ae1f4a67c5d12af3180e114294d1" title="DrawNode::getNode" alt="" coords="723,384,864,413"/>
+<area shape="rect" id="node11" href="$d3/daf/classDrawTreeBuilder.html#adcc31bd25b0671108b4698fb16a3d68c" title="DrawTreeBuilder::firstWalk" alt="" coords="960,200,1139,229"/>
+<area shape="rect" id="node31" href="$d3/daf/classDrawTreeBuilder.html#a58f2c8ad68836687c5b1244286f47cfb" title="DrawTreeBuilder::secondWalk" alt="" coords="951,253,1148,283"/>
+<area shape="rect" id="node13" href="$d6/d4b/classDrawNode.html#a69350f3cf23a7ab846b9e1b464d89ae0" title="DrawNode::getLeftmostSibling" alt="" coords="1429,221,1629,251"/>
+<area shape="rect" id="node15" href="$d6/d4b/classDrawNode.html#af647c1992119a74b36624442e9d6e010" title="DrawNode::leftSibling" alt="" coords="1455,280,1604,309"/>
+<area shape="rect" id="node17" href="$d3/daf/classDrawTreeBuilder.html#a411a7e04f8fa1d235f56d81b54a2af12" title="DrawTreeBuilder::apportion" alt="" coords="1199,109,1377,139"/>
+<area shape="rect" id="node29" href="$d3/daf/classDrawTreeBuilder.html#a0877d750c0c406c4e982eaa02507cd15" title="DrawTreeBuilder::execute\lShifts" alt="" coords="1201,162,1375,209"/>
+<area shape="rect" id="node21" href="$d6/d4b/classDrawNode.html#af8387998a83841aa18097aad83a5f62f" title="DrawNode::nextRight" alt="" coords="1456,5,1603,35"/>
+<area shape="rect" id="node23" href="$d6/d4b/classDrawNode.html#acee0e825c3900a043299d054e4a2ed5b" title="DrawNode::nextLeft" alt="" coords="1460,59,1599,88"/>
+<area shape="rect" id="node25" href="$d3/daf/classDrawTreeBuilder.html#a7f4c76b86898d98aced03984f01a8843" title="DrawTreeBuilder::moveSubtree" alt="" coords="1428,112,1631,141"/>
+<area shape="rect" id="node27" href="$d3/daf/classDrawTreeBuilder.html#aa08c7653b823a8a03ab5ad955db9102b" title="DrawTreeBuilder::ancestor" alt="" coords="1441,165,1617,195"/>
+<area shape="rect" id="node49" href="$df/dd0/classNode.html#abda679dab3579ff77441b31d7e9893f3" title="Get the total number of nodes in this tree, including the root node." alt="" coords="997,384,1101,413"/>
+<area shape="rect" id="node52" href="$df/dd0/classNode.html#ad4e3aa154a0f4e420e24b71959a31066" title="Get the children of this node." alt="" coords="987,307,1112,336"/>
+</map>

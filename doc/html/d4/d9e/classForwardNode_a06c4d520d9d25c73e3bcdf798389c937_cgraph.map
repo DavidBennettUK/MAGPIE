@@ -1,0 +1,6 @@
+<map id="ForwardNode::clone" name="ForwardNode::clone">
+<area shape="rect" id="node3" href="$d4/d9e/classForwardNode.html#afa6d806d017f093048f780df2ba7b431" title="Create a new ForwardNode." alt="" coords="192,5,336,35"/>
+<area shape="rect" id="node7" href="$df/dd0/classNode.html#a132699398b350e83b548a5645e69beb0" title="Add a child to this node." alt="" coords="208,59,320,88"/>
+<area shape="rect" id="node9" href="$df/dd0/classNode.html#a4a4b6ade8975154630f781989665a863" title="Creates a deep&#45;copy of this node." alt="" coords="219,112,309,141"/>
+<area shape="rect" id="node5" href="$d4/d9e/classForwardNode.html#a7d3129a1fe97a6e8c49bce5418f1b8aa" title="Constructs the node with an arity of 0 and the name &#39;Forward&#39;." alt="" coords="384,5,571,35"/>
+</map>

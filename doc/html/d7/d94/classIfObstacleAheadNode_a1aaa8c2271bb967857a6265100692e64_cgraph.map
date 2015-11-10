@@ -1,0 +1,5 @@
+<map id="IfObstacleAheadNode::evaluate" name="IfObstacleAheadNode::evaluate">
+<area shape="rect" id="node3" href="$df/df0/classEnvironmentMulti.html#a0fa1148c4acab48ae237cd88025a424d" title="Check if there is an obstactle at the given coordinates." alt="" coords="207,5,399,35"/>
+<area shape="rect" id="node5" href="$d0/d98/classEnvironment.html#a43edbed210f24ba42cd43f38a4aece5e" title="Environment::getHeight" alt="" coords="224,59,381,88"/>
+<area shape="rect" id="node7" href="$d0/d98/classEnvironment.html#a47857247e10b0852b6e98d9bd22b94f2" title="Environment::getWidth" alt="" coords="225,112,380,141"/>
+</map>

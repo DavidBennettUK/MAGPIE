@@ -1,0 +1,8 @@
+<map id="Environment::reset" name="Environment::reset">
+<area shape="rect" id="node3" href="$classEnvironment.html#a8b427c4448d8b7536666837521b9e83d" title="Constructs the environment." alt="" coords="187,5,363,35"/>
+<area shape="rect" id="node9" href="$classLawnmower.html#ac6068cc64b55c4026366f6b173827ab4" title="Reset the lawnmower to its initial state." alt="" coords="211,59,339,88"/>
+<area shape="rect" id="node5" href="$classEnvironment.html#ada38f9a18b04fb385e466100c32b9a1a" title="Creates a deep&#45;copy of the environment." alt="" coords="429,5,563,35"/>
+<area shape="rect" id="node7" href="$classLawnmower.html#a3cc5e569c06c6376395ef467f03e2130" title="Creates a deep&#45;copy of the lawnmower." alt="" coords="629,32,760,61"/>
+<area shape="rect" id="node11" href="$classLawnmower.html#afca77972add24971f088ac293d392aca" title="Constructs the lawnmower." alt="" coords="411,59,581,88"/>
+<area shape="rect" id="node14" href="$classLawnmower.html#adafe2ac8e38a4b395d60690b42dc4221" title="Get the fitness of the lawnmower." alt="" coords="416,112,576,141"/>
+</map>

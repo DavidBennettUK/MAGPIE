@@ -1,0 +1,8 @@
+<map id="RouletteWindow" name="RouletteWindow">
+<area shape="rect" id="node2" href="$d6/d0c/classIndividual.html" title="Base individual class." alt="" coords="361,101,439,131"/>
+<area shape="rect" id="node11" href="$da/d5f/classRouletteWidget.html" title="A roulette wheel animation." alt="" coords="283,197,395,227"/>
+<area shape="rect" id="node4" href="$df/dd0/classNode.html" title="Base node class for program trees." alt="" coords="284,5,337,35"/>
+<area shape="rect" id="node7" href="$d4/dda/classFitness.html" title="Base fitness class." alt="" coords="427,5,491,35"/>
+<area shape="rect" id="node9" href="$d4/df7/classGeneration.html" title="Holds one generation of a population of Individuals." alt="" coords="151,101,236,131"/>
+<area shape="rect" id="node15" href="$db/d3d/classGenerationWindow.html" title="Shows a table of individuals in a generation." alt="" coords="5,197,136,227"/>
+</map>

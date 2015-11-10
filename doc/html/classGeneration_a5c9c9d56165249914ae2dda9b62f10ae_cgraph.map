@@ -1,0 +1,4 @@
+<map id="Generation::getBestIndividual" name="Generation::getBestIndividual">
+<area shape="rect" id="node3" href="$classIndividual.html#af9523805cdf3e5dacdce24bfd4bf052a" title="Get the fitness of the individual." alt="" coords="248,5,395,35"/>
+<area shape="rect" id="node5" href="$classFitness.html#a5db2cffe392b2cb0902545a1306c5179" title="Compare this fitness to another to see if this is better." alt="" coords="248,59,395,88"/>
+</map>

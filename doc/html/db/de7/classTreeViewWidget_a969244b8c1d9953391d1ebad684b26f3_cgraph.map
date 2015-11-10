@@ -1,0 +1,9 @@
+<map id="TreeViewWidget::resizeGL" name="TreeViewWidget::resizeGL">
+<area shape="rect" id="node3" href="$db/de7/classTreeViewWidget.html#a40851985da270a4d6a49395dc86d6699" title="Find the amount of zoom needed to fit the tree view in the given width and height." alt="" coords="232,32,440,61"/>
+<area shape="rect" id="node5" href="$d6/d4b/classDrawNode.html#a27ad2c16ed3d4095068c1934c6c06fee" title="DrawNode::getWidth" alt="" coords="491,5,635,35"/>
+<area shape="rect" id="node11" href="$d6/d4b/classDrawNode.html#adff69726286a1f83878c156a1fa771ec" title="DrawNode::getHeight" alt="" coords="489,59,636,88"/>
+<area shape="rect" id="node7" href="$d6/d4b/classDrawNode.html#a5cd116dcfd2564bc7c4e714d034eef75" title="DrawNode::getBoundsH" alt="" coords="687,5,849,35"/>
+<area shape="rect" id="node9" href="$d6/d4b/classDrawNode.html#a86f6a849090303f895041ac9f80ddf3b" title="DrawNode::getX" alt="" coords="900,5,1017,35"/>
+<area shape="rect" id="node13" href="$d6/d4b/classDrawNode.html#a9009b3c397d55dee486ae8539f4bf669" title="DrawNode::getBoundsV" alt="" coords="687,59,849,88"/>
+<area shape="rect" id="node15" href="$d6/d4b/classDrawNode.html#a8d564e87336b7fda3999fa3b1a55bc9a" title="DrawNode::getY" alt="" coords="900,59,1017,88"/>
+</map>

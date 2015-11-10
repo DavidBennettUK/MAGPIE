@@ -1,0 +1,6 @@
+<map id="IfObstacleAheadNode::clone" name="IfObstacleAheadNode::clone">
+<area shape="rect" id="node3" href="$d7/d94/classIfObstacleAheadNode.html#ae25a9e569a51992816db23385990afa6" title="Create a new IfObstacleAheadNode." alt="" coords="207,5,356,51"/>
+<area shape="rect" id="node7" href="$df/dd0/classNode.html#a132699398b350e83b548a5645e69beb0" title="Add a child to this node." alt="" coords="225,75,337,104"/>
+<area shape="rect" id="node9" href="$df/dd0/classNode.html#a4a4b6ade8975154630f781989665a863" title="Creates a deep&#45;copy of this node." alt="" coords="236,128,327,157"/>
+<area shape="rect" id="node5" href="$d7/d94/classIfObstacleAheadNode.html#a51aa36452339066d5bf36a3c4af45dfa" title="Constructs the node with an arity of 2 and the name &#39;IfObstacleAhead&#39;." alt="" coords="407,5,564,51"/>
+</map>

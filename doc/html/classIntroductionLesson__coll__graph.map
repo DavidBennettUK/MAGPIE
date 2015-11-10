@@ -1,0 +1,11 @@
+<map id="IntroductionLesson" name="IntroductionLesson">
+<area shape="rect" id="node2" href="$classLesson.html" title="Lesson" alt="" coords="92,389,156,419"/>
+<area shape="rect" id="node4" href="$classLessonStep.html" title="LessonStep" alt="" coords="5,488,96,517"/>
+<area shape="rect" id="node8" href="$classPlayerWindow.html" title="PlayerWindow" alt="" coords="233,389,340,419"/>
+<area shape="rect" id="node10" href="$classLawnmower.html" title="Represents a lawnmower, to be used in lawnmower scenarios." alt="" coords="216,197,307,227"/>
+<area shape="rect" id="node21" href="$classLawnViewWidget.html" title="View for a lawnmower mowing a lawn." alt="" coords="323,293,445,323"/>
+<area shape="rect" id="node12" href="$classIndividual.html" title="Base individual class." alt="" coords="141,101,219,131"/>
+<area shape="rect" id="node14" href="$classNode.html" title="Base node class for program trees." alt="" coords="51,5,104,35"/>
+<area shape="rect" id="node17" href="$classFitness.html" title="Base fitness class." alt="" coords="193,5,257,35"/>
+<area shape="rect" id="node19" href="$classEnvironment.html" title="Represents a garden a Lawnmower mows." alt="" coords="243,101,336,131"/>
+</map>

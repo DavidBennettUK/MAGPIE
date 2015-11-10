@@ -1,0 +1,6 @@
+<map id="CrossoverWidget::CrossoverWidget" name="CrossoverWidget::CrossoverWidget">
+<area shape="rect" id="node3" href="$classCrossoverWidget.html#a847d1b8a3fc82b2d22245961b2f94314" title="Starts both the crossover animations." alt="" coords="247,5,460,35"/>
+<area shape="rect" id="node5" href="$classCrossoverWidget.html#af667171ded9d93977caea3f8d8093c8d" title="Starts the top left to bottom right crossover animation." alt="" coords="260,58,447,105"/>
+<area shape="rect" id="node7" href="$classCrossoverWidget.html#a946d6f4885b370decfda27a5a9de01e8" title="Called when the animation has finished." alt="" coords="509,97,685,127"/>
+<area shape="rect" id="node9" href="$classCrossoverWidget.html#a44f71b5a64d66cf3fed3015a06727ff5" title="Starts the top right to bottom left crossover animation." alt="" coords="260,178,447,225"/>
+</map>

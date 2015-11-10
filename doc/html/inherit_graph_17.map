@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$db/d03/classLesson.html" title="Base class for all lessons." alt="" coords="5,192,69,221"/>
+<area shape="rect" id="node3" href="$db/dd0/classAntLesson.html" title="Introduces the artifical ant problem." alt="" coords="149,5,232,35"/>
+<area shape="rect" id="node5" href="$de/dbd/classExperimentLesson.html" title="Allows the user to experiment with lawnmower problem GP runs." alt="" coords="125,59,256,88"/>
+<area shape="rect" id="node7" href="$d9/dca/classGPRunLesson.html" title="Teaches how the basic GP components are brought together to perform a GP run." alt="" coords="137,112,244,141"/>
+<area shape="rect" id="node9" href="$d1/d0a/classIntroductionLesson.html" title="Introduces the lawnmower problem." alt="" coords="125,165,256,195"/>
+<area shape="rect" id="node11" href="$d7/d66/classMultiObjectiveLesson.html" title="Introduces multi&#45;objective fitness by adding obstacles to the lawnmower problem." alt="" coords="117,219,264,248"/>
+<area shape="rect" id="node13" href="$dd/db8/classOperatorsLesson.html" title="Introduces genetic programming operators." alt="" coords="131,272,251,301"/>
+<area shape="rect" id="node15" href="$dc/dfd/classSelectionLesson.html" title="Introduces selection methods." alt="" coords="132,325,249,355"/>
+<area shape="rect" id="node17" href="$db/dd8/classTreeLesson.html" title="Introduces program tree representation." alt="" coords="145,379,236,408"/>
+</map>

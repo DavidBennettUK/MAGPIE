@@ -1,0 +1,4 @@
+<map id="TournamentSelection::selectIndividual" name="TournamentSelection::selectIndividual">
+<area shape="rect" id="node3" href="$d4/df7/classGeneration.html#adb31e45b1eda0730cd7f0066a7cf1089" title="Get a list of Individuals in the population." alt="" coords="201,5,372,35"/>
+<area shape="rect" id="node5" href="$d6/d0c/classIndividual.html#af9523805cdf3e5dacdce24bfd4bf052a" title="Get the fitness of the individual." alt="" coords="213,59,360,88"/>
+</map>

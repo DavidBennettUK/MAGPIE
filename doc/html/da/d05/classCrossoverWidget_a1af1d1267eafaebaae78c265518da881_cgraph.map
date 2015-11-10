@@ -1,0 +1,8 @@
+<map id="CrossoverWidget::calculateZoom" name="CrossoverWidget::calculateZoom">
+<area shape="rect" id="node3" href="$d6/d4b/classDrawNode.html#a27ad2c16ed3d4095068c1934c6c06fee" title="DrawNode::getWidth" alt="" coords="272,5,416,35"/>
+<area shape="rect" id="node9" href="$d6/d4b/classDrawNode.html#adff69726286a1f83878c156a1fa771ec" title="DrawNode::getHeight" alt="" coords="271,59,417,88"/>
+<area shape="rect" id="node5" href="$d6/d4b/classDrawNode.html#a5cd116dcfd2564bc7c4e714d034eef75" title="DrawNode::getBoundsH" alt="" coords="468,5,631,35"/>
+<area shape="rect" id="node7" href="$d6/d4b/classDrawNode.html#a86f6a849090303f895041ac9f80ddf3b" title="DrawNode::getX" alt="" coords="681,5,799,35"/>
+<area shape="rect" id="node11" href="$d6/d4b/classDrawNode.html#a9009b3c397d55dee486ae8539f4bf669" title="DrawNode::getBoundsV" alt="" coords="468,59,631,88"/>
+<area shape="rect" id="node13" href="$d6/d4b/classDrawNode.html#a8d564e87336b7fda3999fa3b1a55bc9a" title="DrawNode::getY" alt="" coords="681,59,799,88"/>
+</map>

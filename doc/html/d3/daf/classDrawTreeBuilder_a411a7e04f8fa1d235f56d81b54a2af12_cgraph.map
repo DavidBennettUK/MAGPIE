@@ -1,0 +1,8 @@
+<map id="DrawTreeBuilder::apportion" name="DrawTreeBuilder::apportion">
+<area shape="rect" id="node3" href="$d6/d4b/classDrawNode.html#af647c1992119a74b36624442e9d6e010" title="DrawNode::leftSibling" alt="" coords="263,5,412,35"/>
+<area shape="rect" id="node5" href="$d6/d4b/classDrawNode.html#a69350f3cf23a7ab846b9e1b464d89ae0" title="DrawNode::getLeftmostSibling" alt="" coords="237,59,437,88"/>
+<area shape="rect" id="node7" href="$d6/d4b/classDrawNode.html#af8387998a83841aa18097aad83a5f62f" title="DrawNode::nextRight" alt="" coords="264,112,411,141"/>
+<area shape="rect" id="node9" href="$d6/d4b/classDrawNode.html#acee0e825c3900a043299d054e4a2ed5b" title="DrawNode::nextLeft" alt="" coords="268,165,407,195"/>
+<area shape="rect" id="node11" href="$d3/daf/classDrawTreeBuilder.html#a7f4c76b86898d98aced03984f01a8843" title="DrawTreeBuilder::moveSubtree" alt="" coords="236,219,439,248"/>
+<area shape="rect" id="node13" href="$d3/daf/classDrawTreeBuilder.html#aa08c7653b823a8a03ab5ad955db9102b" title="DrawTreeBuilder::ancestor" alt="" coords="249,272,425,301"/>
+</map>

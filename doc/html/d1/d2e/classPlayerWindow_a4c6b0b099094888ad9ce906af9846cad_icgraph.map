@@ -1,0 +1,7 @@
+<map id="PlayerWindow::stop" name="PlayerWindow::stop">
+<area shape="rect" id="node3" href="$d1/d2e/classPlayerWindow.html#a361083cef4829024b18b5f3fcdc7f001" title="Set the individual to play." alt="" coords="192,5,379,35"/>
+<area shape="rect" id="node7" href="$d1/d2e/classPlayerWindow.html#a8d6fb6e9431562f0fc34e5c220e35497" title="Called when the step button is pressed." alt="" coords="197,59,373,88"/>
+<area shape="rect" id="node10" href="$d1/d2e/classPlayerWindow.html#ae25b290c694e3d5aa0557928070f6a4c" title="Called when the play button is pressed." alt="" coords="216,112,355,141"/>
+<area shape="rect" id="node13" href="$d1/d2e/classPlayerWindow.html#a1b75a51a1ac2ad70b23c3554caa16789" title="Called when the reset button is pressed." alt="" coords="215,165,356,195"/>
+<area shape="rect" id="node5" href="$d1/d2e/classPlayerWindow.html#a4c525e170ad72eaf5406aedaa048a3d6" title="Constructs the window." alt="" coords="428,85,625,115"/>
+</map>

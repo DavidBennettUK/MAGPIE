@@ -1,0 +1,5 @@
+<map id="Node" name="Node">
+<area shape="rect" id="node3" href="$classLeftNode.html" title="Lawnmower node for turning left 90°" alt="" coords="5,83,80,112"/>
+<area shape="rect" id="node5" href="$classMowNode.html" title="Lawnmower node for moving forward one tile." alt="" coords="104,83,184,112"/>
+<area shape="rect" id="node7" href="$classProg2Node.html" title="Lawnmower node for joining two child nodes together." alt="" coords="208,83,293,112"/>
+</map>

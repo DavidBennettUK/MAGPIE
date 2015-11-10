@@ -1,0 +1,4 @@
+<map id="RouletteWindow::showWinner" name="RouletteWindow::showWinner">
+<area shape="rect" id="node3" href="$db/d3d/classGenerationWindow.html#afa19ff2cf6fe1f99103f69ab61d8209b" title="Highlight the given individual in the list of individuals." alt="" coords="255,5,428,51"/>
+<area shape="rect" id="node5" href="$d4/df7/classGeneration.html#adb31e45b1eda0730cd7f0066a7cf1089" title="Get a list of Individuals in the population." alt="" coords="479,13,649,43"/>
+</map>

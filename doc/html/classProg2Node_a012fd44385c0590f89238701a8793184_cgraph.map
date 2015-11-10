@@ -1,0 +1,6 @@
+<map id="Prog2Node::clone" name="Prog2Node::clone">
+<area shape="rect" id="node3" href="$classProg2Node.html#ab3781e53a55e27ba1ee4dba7e58a352f" title="Create a new LeftNode." alt="" coords="181,5,312,35"/>
+<area shape="rect" id="node7" href="$classNode.html#a132699398b350e83b548a5645e69beb0" title="Add a child to this node." alt="" coords="191,59,303,88"/>
+<area shape="rect" id="node9" href="$classNode.html#a4a4b6ade8975154630f781989665a863" title="Creates a deep&#45;copy of this node." alt="" coords="201,112,292,141"/>
+<area shape="rect" id="node5" href="$classProg2Node.html#a080d36bd61ed39761277bf8a0284e5d7" title="Constructs the node with an arity of 2 and the name &#39;Prog2&#39;." alt="" coords="360,5,520,35"/>
+</map>

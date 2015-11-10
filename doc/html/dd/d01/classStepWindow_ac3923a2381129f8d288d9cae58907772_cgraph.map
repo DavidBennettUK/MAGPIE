@@ -1,0 +1,7 @@
+<map id="StepWindow::back" name="StepWindow::back">
+<area shape="rect" id="node3" href="$db/d03/classLesson.html#aebdde8fa723bfcd26d0c768adc5a18c7" title="Load the previous step." alt="" coords="205,5,352,35"/>
+<area shape="rect" id="node5" href="$d8/d63/classLessonStep.html#af51444d2e983368fc13199fef004e90a" title="LessonStep::getTitle" alt="" coords="208,59,349,88"/>
+<area shape="rect" id="node7" href="$d8/d63/classLessonStep.html#a10b4288c9ce7f6ea559d3003d2d5ea52" title="LessonStep::getDescription" alt="" coords="188,112,369,141"/>
+<area shape="rect" id="node9" href="$db/d03/classLesson.html#af99aef32ec5e69450099795783953b90" title="Lesson::hasNextStep" alt="" coords="205,165,352,195"/>
+<area shape="rect" id="node11" href="$db/d03/classLesson.html#ae9238e7bf0c8e6a2eaec586ee54089c3" title="Lesson::hasPreviousStep" alt="" coords="193,219,364,248"/>
+</map>

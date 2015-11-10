@@ -1,0 +1,5 @@
+<map id="LessonStep::getDescription" name="LessonStep::getDescription">
+<area shape="rect" id="node3" href="$dd/d01/classStepWindow.html#a16849f7f801b0b5cc703e4e83f736a52" title="Constructs the window." alt="" coords="419,22,597,51"/>
+<area shape="rect" id="node5" href="$dd/d01/classStepWindow.html#a7674a4af227a0d7085b2bb6c75acfdba" title="Previous step button." alt="" coords="240,22,368,51"/>
+<area shape="rect" id="node8" href="$dd/d01/classStepWindow.html#ac3923a2381129f8d288d9cae58907772" title="Called when the back button is pressed." alt="" coords="239,75,369,104"/>
+</map>

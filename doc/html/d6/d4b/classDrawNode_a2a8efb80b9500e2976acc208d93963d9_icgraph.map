@@ -1,0 +1,15 @@
+<map id="DrawNode::getChildren" name="DrawNode::getChildren">
+<area shape="rect" id="node3" href="$d6/d4b/classDrawNode.html#a4d40a68402c2c30259c0b842e8f0eaf5" title="Get a child node by its index, using depth&#45;first numbering from 0." alt="" coords="239,5,380,35"/>
+<area shape="rect" id="node5" href="$da/d05/classCrossoverWidget.html#a91576cdf68be975a50b0d2c4d1d13dcc" title="Recursively draw the tree lines connecting nodes." alt="" coords="219,59,400,88"/>
+<area shape="rect" id="node9" href="$da/d05/classCrossoverWidget.html#a63b5f30c60c88eae70fb5436465004af" title="Recursively draw the nodes shapes." alt="" coords="215,112,404,141"/>
+<area shape="rect" id="node12" href="$da/d05/classCrossoverWidget.html#adf55b7b2350e083dba1199eb9d9b48c9" title="Recursively draw the node text labels." alt="" coords="215,165,404,195"/>
+<area shape="rect" id="node15" href="$d9/d7c/classMutationWidget.html#a711995f1d521b4d014701f280fe0e18e" title="Recursively draw the tree lines connecting nodes." alt="" coords="223,219,396,248"/>
+<area shape="rect" id="node19" href="$d9/d7c/classMutationWidget.html#a0219ce69d8cb0f657e7a3c83e7443f52" title="Recursively draw the nodes shapes." alt="" coords="220,272,399,301"/>
+<area shape="rect" id="node22" href="$d9/d7c/classMutationWidget.html#a63746291bd333b5fcc9e5f399ef5ae12" title="Recursively draw the node text labels." alt="" coords="220,325,399,355"/>
+<area shape="rect" id="node25" href="$db/de7/classTreeViewWidget.html#ae66b142b29c4db37a3955147b5086d6d" title="Recursively draw the lines connecting nodes." alt="" coords="220,379,399,408"/>
+<area shape="rect" id="node29" href="$db/de7/classTreeViewWidget.html#a8e82c432c07742cde0738e5a2aaf7615" title="Recursively draw the node shapes." alt="" coords="217,432,401,461"/>
+<area shape="rect" id="node32" href="$db/de7/classTreeViewWidget.html#a911741b3781b0f749f09fbc8826776de" title="Recursively draw the text node labels." alt="" coords="217,485,401,515"/>
+<area shape="rect" id="node7" href="$da/d05/classCrossoverWidget.html#a2a61d42610399e2627657ce5e9c10dda" title="Draws the animation." alt="" coords="453,112,629,141"/>
+<area shape="rect" id="node17" href="$d9/d7c/classMutationWidget.html#a8be4576af55244204301e73572a41132" title="Draws the animation." alt="" coords="459,272,624,301"/>
+<area shape="rect" id="node27" href="$db/de7/classTreeViewWidget.html#a5881aa3987beba2630cc3569c27c0a3d" title="Draws the tree." alt="" coords="456,432,627,461"/>
+</map>

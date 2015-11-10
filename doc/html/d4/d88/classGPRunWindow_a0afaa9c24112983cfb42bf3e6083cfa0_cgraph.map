@@ -1,0 +1,7 @@
+<map id="GPRunWindow::run" name="GPRunWindow::run">
+<area shape="rect" id="node3" href="$da/d49/classScenario.html#ad547606bacc4bdf4805dfcfd13f6f01a" title="Request the run to be paused." alt="" coords="227,5,365,35"/>
+<area shape="rect" id="node5" href="$d4/d88/classGPRunWindow.html#a786e2ad75ee7a70d9d69032daca91f9b" title="Called when the run has been completed to update the GUI." alt="" coords="203,59,389,88"/>
+<area shape="rect" id="node11" href="$d4/d88/classGPRunWindow.html#a40ffc23408168c48cfb610b1e70017b3" title="Toggle the usability of run options." alt="" coords="193,112,399,141"/>
+<area shape="rect" id="node7" href="$da/d49/classScenario.html#a85347c50caedfa1d797e6a3cd1493ee1" title="Gets the number of the current Generation." alt="" coords="457,32,665,61"/>
+<area shape="rect" id="node9" href="$da/d49/classScenario.html#a5f42085969493ef7ff045459cc9a570b" title="Get the maximum number of Generations this scenario can generate." alt="" coords="448,85,675,115"/>
+</map>

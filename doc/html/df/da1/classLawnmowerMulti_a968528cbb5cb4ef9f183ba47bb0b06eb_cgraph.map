@@ -1,0 +1,8 @@
+<map id="LawnmowerMulti::clone" name="LawnmowerMulti::clone">
+<area shape="rect" id="node3" href="$df/da1/classLawnmowerMulti.html#aa4543073aa9c4a0313a6501775e6f172" title="Constructs the lawnmower." alt="" coords="215,5,412,51"/>
+<area shape="rect" id="node5" href="$df/df0/classEnvironmentMulti.html#a2ee90d18727e54f0910182fa6febb870" title="Creates a deep&#45;copy of the environment." alt="" coords="232,75,395,104"/>
+<area shape="rect" id="node11" href="$df/dd0/classNode.html#a4a4b6ade8975154630f781989665a863" title="Creates a deep&#45;copy of this node." alt="" coords="268,128,359,157"/>
+<area shape="rect" id="node13" href="$d4/dda/classFitness.html#adfc41927232af05fe22f95000210c811" title="Create a deep&#45;copy clone of this fitness." alt="" coords="261,181,365,211"/>
+<area shape="rect" id="node7" href="$df/df0/classEnvironmentMulti.html#aa89ba73718dbc0206a607053c396e891" title="Constructs the environment." alt="" coords="463,66,665,113"/>
+<area shape="rect" id="node9" href="$df/df0/classEnvironmentMulti.html#a0fa1148c4acab48ae237cd88025a424d" title="Check if there is an obstactle at the given coordinates." alt="" coords="716,75,908,104"/>
+</map>

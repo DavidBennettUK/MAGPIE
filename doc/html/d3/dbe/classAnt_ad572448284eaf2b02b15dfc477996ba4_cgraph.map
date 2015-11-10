@@ -1,0 +1,6 @@
+<map id="Ant::clone" name="Ant::clone">
+<area shape="rect" id="node3" href="$d3/dbe/classAnt.html#ad8d8cfd438da97d83cf7fcd8ec02a295" title="Constructs the ant." alt="" coords="153,5,223,35"/>
+<area shape="rect" id="node7" href="$df/dd0/classNode.html#a4a4b6ade8975154630f781989665a863" title="Creates a deep&#45;copy of this node." alt="" coords="143,59,233,88"/>
+<area shape="rect" id="node9" href="$d4/dda/classFitness.html#adfc41927232af05fe22f95000210c811" title="Create a deep&#45;copy clone of this fitness." alt="" coords="136,112,240,141"/>
+<area shape="rect" id="node5" href="$d3/dbe/classAnt.html#a3155542477a1b0ee765a19248995c9d1" title="Reset the ant to its initial state." alt="" coords="289,5,367,35"/>
+</map>

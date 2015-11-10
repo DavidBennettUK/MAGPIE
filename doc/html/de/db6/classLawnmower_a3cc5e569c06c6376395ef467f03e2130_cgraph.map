@@ -1,0 +1,9 @@
+<map id="Lawnmower::clone" name="Lawnmower::clone">
+<area shape="rect" id="node3" href="$de/db6/classLawnmower.html#a21799849357fbc0b6e67685e5edbffa2" title="Constructs the lawnmower." alt="" coords="184,5,355,35"/>
+<area shape="rect" id="node9" href="$d0/d98/classEnvironment.html#ada38f9a18b04fb385e466100c32b9a1a" title="Creates a deep&#45;copy of the environment." alt="" coords="203,59,336,88"/>
+<area shape="rect" id="node14" href="$df/dd0/classNode.html#a4a4b6ade8975154630f781989665a863" title="Creates a deep&#45;copy of this node." alt="" coords="224,112,315,141"/>
+<area shape="rect" id="node16" href="$d4/dda/classFitness.html#adfc41927232af05fe22f95000210c811" title="Create a deep&#45;copy clone of this fitness." alt="" coords="217,165,321,195"/>
+<area shape="rect" id="node5" href="$de/db6/classLawnmower.html#ac6068cc64b55c4026366f6b173827ab4" title="Reset the lawnmower to its initial state." alt="" coords="427,5,555,35"/>
+<area shape="rect" id="node7" href="$d0/d98/classEnvironment.html#a9bf96c5e6b817be1595b24992cde8e82" title="Resets the garden to an unmowed state." alt="" coords="628,32,759,61"/>
+<area shape="rect" id="node11" href="$d0/d98/classEnvironment.html#a37c80929ff2f86ffaf69ad059bf244ff" title="Constructs the environment." alt="" coords="403,59,579,88"/>
+</map>

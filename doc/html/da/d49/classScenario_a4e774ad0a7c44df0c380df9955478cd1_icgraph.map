@@ -1,0 +1,5 @@
+<map id="Scenario::maxGenerationsChanged" name="Scenario::maxGenerationsChanged">
+<area shape="rect" id="node3" href="$da/d49/classScenario.html#a8389ec74527759aeb680696119a73f5e" title="Sets the maximum number of Generations this scenario can generate." alt="" coords="229,13,456,43"/>
+<area shape="rect" id="node5" href="$d4/d88/classGPRunWindow.html#a5743dee5243f40310a638c2063626645" title="Set the maximum number of generations for the scenario." alt="" coords="505,13,769,43"/>
+<area shape="rect" id="node7" href="$d4/d88/classGPRunWindow.html#ab77c7cb56c912bb9d856df9be9b2469c" title="Constructs the window." alt="" coords="819,13,1029,43"/>
+</map>

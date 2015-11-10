@@ -1,0 +1,32 @@
+<map id="Scenario::nextGeneration" name="Scenario::nextGeneration">
+<area shape="rect" id="node3" href="$classScenario.html#af589b45becf4d49cdc142e9764a0f15c" title="Initialises a random population of populationSize." alt="" coords="239,154,415,200"/>
+<area shape="rect" id="node5" href="$classGeneration.html#ad8af1bc64c09acba4406349960a91761" title="Get the current number of Individuals in the population." alt="" coords="749,113,885,142"/>
+<area shape="rect" id="node9" href="$classGeneration.html#a1885a25c0f623e93f93d7802e0a4ca2c" title="Add an individual to the population." alt="" coords="493,218,661,248"/>
+<area shape="rect" id="node14" href="$classScenario.html#aa7aaadf3e41fdb420ed3c9c7c617fb39" title="Emitted when a Generation is complete." alt="" coords="479,61,676,90"/>
+<area shape="rect" id="node16" href="$classGeneration.html#a1b1a00c0613b0e1a92779a917bd61e6a" title="Creates a deep&#45;copy clone of the generation." alt="" coords="516,272,639,301"/>
+<area shape="rect" id="node20" href="$classIndividual.html#a0c60799e1810c4ec730f8f5a5cb835b4" title="Deep&#45;copy the individual." alt="" coords="760,325,875,354"/>
+<area shape="rect" id="node23" href="$classScenario.html#ab7aa18f19f208971a98b0f9cce70b68a" title="Gets the current generation." alt="" coords="224,376,429,405"/>
+<area shape="rect" id="node26" href="$classSelection.html#a6a587a7e706c3425400446b751b4d699" title="Select an Individual from the Generation." alt="" coords="240,429,413,458"/>
+<area shape="rect" id="node29" href="$classCrossover.html#a3d65010e1a277a98d154c1108e997aee" title="Perform a crossover operation between two trees." alt="" coords="253,530,400,560"/>
+<area shape="rect" id="node55" href="$classIndividual.html#a58685f37a806e50f60a26486df5519dd" title="Gets the root Node of the individual&#39;s program tree." alt="" coords="245,584,408,613"/>
+<area shape="rect" id="node57" href="$classIndividual.html#a87f9724fc796a08fd3a19479d02e6dc7" title="Reset the individual to initial state, where no steps have been performed." alt="" coords="269,637,384,666"/>
+<area shape="rect" id="node59" href="$classMutation.html#ae0af4e97f25748c73b17353ac08b3b09" title="Performs point&#45;mutation at a random point in the tree." alt="" coords="267,850,387,880"/>
+<area shape="rect" id="node7" href="$classScenario.html#aab4e803dd6429f9811c0d1a80916f444" title="Generates a random in based on scenario parameters." alt="" coords="488,165,667,194"/>
+<area shape="rect" id="node12" href="$classGeneration.html#a5afa9aaa0e862765e593349d724e9bb0" title="Emitted when an Individual has been added to the generation." alt="" coords="725,218,909,248"/>
+<area shape="rect" id="node18" href="$classGeneration.html#a1b6f492d33734fdba118d618528923d7" title="Constructs the generation with a maximum population size." alt="" coords="740,272,895,301"/>
+<area shape="rect" id="node31" href="$classNode.html#abe702155e54e24999aa15af928e95406" title="Get the number of children this node should have." alt="" coords="524,744,631,773"/>
+<area shape="rect" id="node33" href="$classCrossover.html#ae4c5b633dd583444b063ef1959292e0a" title="Helper method to get a random crossover point for the given tree." alt="" coords="479,584,676,613"/>
+<area shape="rect" id="node38" href="$classNode.html#a5b73dcbf986733bf5f24ba24821c44fd" title="Get a reference to a child Node by its index." alt="" coords="523,637,632,666"/>
+<area shape="rect" id="node43" href="$classNode.html#a01bad741e7ec593c83176acb4a32130d" title="Get the depth of the current node in the tree." alt="" coords="520,477,635,506"/>
+<area shape="rect" id="node46" href="$classTreeFactory.html#a69c4b2c548cbb2d46706c24f7d311703" title="Get the maximum number of levels randomly generated trees can have, including the root node..." alt="" coords="487,530,668,560"/>
+<area shape="rect" id="node48" href="$classNode.html#abad9b3da6a6cf63fbed905252402d2ae" title="Get the number of levels in the tree, including the root level." alt="" coords="519,400,636,429"/>
+<area shape="rect" id="node51" href="$classNode.html#a8e09d5e4fd1497c0964a0923e6f77e72" title="Get the parent node of this node." alt="" coords="519,797,636,826"/>
+<area shape="rect" id="node53" href="$classNode.html#a2c6e8874c58cbf24ccb2b60df69e3689" title="Replace a child node with a new node." alt="" coords="511,690,644,720"/>
+<area shape="rect" id="node35" href="$classNode.html#abda679dab3579ff77441b31d7e9893f3" title="Get the total number of nodes in this tree, including the root node." alt="" coords="765,637,869,666"/>
+<area shape="rect" id="node41" href="$classNode.html#ad4e3aa154a0f4e420e24b71959a31066" title="Get the children of this node." alt="" coords="755,849,880,878"/>
+<area shape="rect" id="node62" href="$classMutation.html#a4e00cb346703a7d8fc05e3f942936811" title="Gets a random mutation point on the tree." alt="" coords="488,850,667,880"/>
+<area shape="rect" id="node67" href="$classTreeFactory.html#aa83370b0f0e46d6aede754bcab5e3171" title="Get a random node from the functional set." alt="" coords="481,957,673,986"/>
+<area shape="rect" id="node69" href="$classTreeFactory.html#a801ce3837f6932feb5a1e4d0f2b5515b" title="Get a random node from the functional set." alt="" coords="481,1061,673,1090"/>
+<area shape="rect" id="node72" href="$classNode.html#a132699398b350e83b548a5645e69beb0" title="Add a child to this node." alt="" coords="521,1114,633,1144"/>
+<area shape="rect" id="node74" href="$classNode.html#a4a4b6ade8975154630f781989665a863" title="Creates a deep&#45;copy of this node." alt="" coords="532,904,623,933"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="RouletteWidget::RouletteWidget" name="RouletteWidget::RouletteWidget">
+<area shape="rect" id="node3" href="$classGeneration.html#adb31e45b1eda0730cd7f0066a7cf1089" title="Get a list of Individuals in the population." alt="" coords="248,5,419,35"/>
+<area shape="rect" id="node5" href="$classIndividual.html#af9523805cdf3e5dacdce24bfd4bf052a" title="Get the fitness of the individual." alt="" coords="500,71,647,100"/>
+<area shape="rect" id="node7" href="$classFitness.html#a767764b2f60aef9249a86d57f19790c5" title="Get the fitness value." alt="" coords="512,136,635,165"/>
+<area shape="rect" id="node9" href="$classGeneration.html#aad11acfe325d34f80e37d273ccc4ff51" title="Get the total fitness value of all Individual in the population." alt="" coords="243,109,424,139"/>
+<area shape="rect" id="node13" href="$classRouletteWidget.html#a9029b1090aa1b876aa8f4628a2ffce64" title="Called every frame to update the animation." alt="" coords="225,213,441,243"/>
+<area shape="rect" id="node17" href="$classRouletteWidget.html#aabb7d231512eecbd21adf40ed804e2ee" title="Play the animation from the start." alt="" coords="259,267,408,296"/>
+<area shape="rect" id="node15" href="$classRouletteWidget.html#ae490feba0b66689c9b9fdca5f5916785" title="Emitted when the animation has completed." alt="" coords="491,213,656,243"/>
+</map>

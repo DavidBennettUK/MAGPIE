@@ -1,0 +1,4 @@
+<map id="Lawnmower::getPoints" name="Lawnmower::getPoints">
+<area shape="rect" id="node3" href="$db/d48/classLawnViewWidget.html#a534f9b59eed7a9aa1b07ff2aff3d7be6" title="Draws the stats text." alt="" coords="209,5,393,35"/>
+<area shape="rect" id="node5" href="$db/d48/classLawnViewWidget.html#abf759a811bf87b321bfc053d62d61865" title="Draws the lawn, lawnmower, grid and text stats." alt="" coords="443,5,619,35"/>
+</map>
